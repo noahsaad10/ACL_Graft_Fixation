@@ -21,7 +21,7 @@ ligament_desired = forceSet.get(ligament);
 
 angle = angles_to_test;
 
-coordinateSet = osimModel.getCoordinateSet();
+coordinateSet = model.getCoordinateSet();
 
 % Get the knee flexion coordinate
 flexion = coordinateSet.get(coordinate_name);
@@ -40,7 +40,7 @@ forceValues = zeros(1, length(angle));
 % Set different knee angles and calculate ACL strain
 for i = 1:length(angle)
 
-    current_state = osimModel.initSystem();
+    current_state = model.initSystem();
     % Set the knee flexion angle
     flexion.setValue(current_state, angle(i));
     
@@ -52,6 +52,6 @@ for i = 1:length(angle)
     forceValues(i) = str2double(forceOutput.getValueAsString(current_state));
 end
 
-angles_plot = linspace(-deg2rad(10), deg2rad(120), 160); % to make flexion positive
+angles_plot = deg2rad(-10):0.01:deg2rad(120); % to make flexion positive
 strain_plot = fliplr(strainValues); 
 force_plot = fliplr(forceValues);

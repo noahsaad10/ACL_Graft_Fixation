@@ -9517,59 +9517,6 @@
 					<!--The length at which ligament begins developing tension. Units of m.-->
 					<slack_length>0.037200000000000004</slack_length>
 				</Blankevoort1991Ligament>
-				<PrescribedForce name="knee_force">
-					<!--Path to a Component that satisfies the Socket 'frame' of type PhysicalFrame (description: The frame onto which this force is applied.).-->
-					<socket_frame>/bodyset/tibia_r</socket_frame>
-					<!--Flag indicating whether the point (specified in pointFunctions) is in global frame.-->
-					<pointIsGlobal>false</pointIsGlobal>
-					<!--Flag indicating whether the quantities (specified in force/torqueFunctions) is in global frame.-->
-					<forceIsGlobal>false</forceIsGlobal>
-					<!--Three functions describing the force to be applied.-->
-					<FunctionSet name="forceFunctions">
-						<objects>
-							<Constant>
-								<value>-60</value>
-							</Constant>
-							<Constant>
-								<value>0</value>
-							</Constant>
-							<Constant>
-								<value>0</value>
-							</Constant>
-						</objects>
-						<groups />
-					</FunctionSet>
-					<!--Three functions describing the location at which the force is applied.-->
-					<FunctionSet name="pointFunctions">
-						<objects>
-							<Constant>
-								<value>0</value>
-							</Constant>
-							<Constant>
-								<value>-0.42899999999999999</value>
-							</Constant>
-							<Constant>
-								<value>0</value>
-							</Constant>
-						</objects>
-						<groups />
-					</FunctionSet>
-					<!--Three functions describing the torque the PrescribedForce applies.-->
-					<FunctionSet name="torqueFunctions">
-						<objects>
-							<Constant>
-								<value>0</value>
-							</Constant>
-							<Constant>
-								<value>0</value>
-							</Constant>
-							<Constant>
-								<value>0</value>
-							</Constant>
-						</objects>
-						<groups />
-					</FunctionSet>
-				</PrescribedForce>
 			</objects>
 			<groups>
 				<ObjectGroup name="R_hip_abd">
