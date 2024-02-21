@@ -16,7 +16,7 @@ for i = 0:numForces-1
     forceNames{i+1} = char(force.getName());
 end
 
-% Get the ACL
+% Get the ligament
 ligament_desired = forceSet.get(ligament);
 
 angle = angles_to_test;
@@ -24,7 +24,7 @@ angle = angles_to_test;
 coordinateSet = model.getCoordinateSet();
 
 % Get the knee flexion coordinate
-flexion = coordinateSet.get(coordinate_name);
+coordinate = coordinateSet.get(coordinate_name);
 
 % Initialize the OpenSim state
 state = model.initSystem();
@@ -42,7 +42,7 @@ for i = 1:length(angle)
 
     current_state = model.initSystem();
     % Set the knee flexion angle
-    flexion.setValue(current_state, angle(i));
+    coordinate.setValue(current_state, angle(i));
     
     % Realize velocity to update the state
     model.realizeVelocity(current_state);
@@ -52,6 +52,6 @@ for i = 1:length(angle)
     forceValues(i) = str2double(forceOutput.getValueAsString(current_state));
 end
 
-angles_plot = deg2rad(-10):0.01:deg2rad(120); % to make flexion positive
-strain_plot = fliplr(strainValues); 
-force_plot = fliplr(forceValues);
+angles_plot = angles_to_test;
+strain_plot = strainValues; 
+force_plot = forceValues;
