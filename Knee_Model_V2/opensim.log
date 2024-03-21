@@ -1,0 +1,2483 @@
+[2024-03-03 09:14:35.613] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 09:14:35.678] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_fixed75.osim
+[2024-03-03 09:14:35.697] [warning] Couldn't find file 'femur.vtp'.
+[2024-03-03 09:14:35.698] [warning] Couldn't find file '.\Geometry\OK_femur_cartilage_lat.obj'.
+[2024-03-03 09:14:35.698] [warning] Couldn't find file '.\Geometry\OK_femur_cartilage_med.obj'.
+[2024-03-03 09:14:35.698] [warning] Couldn't find file '.\Geometry\OK_femur.obj'.
+[2024-03-03 09:14:35.704] [warning] Couldn't find file 'tibia.vtp'.
+[2024-03-03 09:14:35.711] [warning] Couldn't find file '.\Geometry\OK_tibia.obj'.
+[2024-03-03 09:17:40.386] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 09:17:40.407] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_fixed15.osim
+[2024-03-03 09:17:40.407] [warning] Couldn't find file 'femur.vtp'.
+[2024-03-03 09:17:40.408] [warning] Couldn't find file '.\Geometry\OK_femur_cartilage_med.obj'.
+[2024-03-03 09:17:40.408] [warning] Couldn't find file '.\Geometry\OK_femur.obj'.
+[2024-03-03 09:17:40.408] [warning] Couldn't find file 'tibia.vtp'.
+[2024-03-03 09:17:40.408] [warning] Couldn't find file '.\Geometry\OK_tibia.obj'.
+[2024-03-03 09:18:19.359] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 09:18:19.371] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_fixed15.osim
+[2024-03-03 09:18:19.372] [warning] Couldn't find file 'femur.vtp'.
+[2024-03-03 09:18:19.372] [warning] Couldn't find file '.\Geometry\OK_femur_cartilage_med.obj'.
+[2024-03-03 09:18:19.372] [warning] Couldn't find file '.\Geometry\OK_femur.obj'.
+[2024-03-03 09:18:19.372] [warning] Couldn't find file 'r_tibia.vtp'.
+[2024-03-03 09:18:19.372] [warning] Couldn't find file '.\Geometry\OK_tibia.obj'.
+[2024-03-03 09:20:08.348] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 09:20:08.360] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_fixed15.osim
+[2024-03-03 09:20:08.372] [warning] Couldn't find file 'femur.vtp'.
+[2024-03-03 09:20:08.372] [warning] Couldn't find file '.\Geometry\OK_femur_cartilage_med.obj'.
+[2024-03-03 09:20:08.373] [warning] Couldn't find file '.\Geometry\OK_femur.obj'.
+[2024-03-03 09:20:08.383] [warning] Couldn't find file '.\Geometry\OK_tibia.obj'.
+[2024-03-03 09:21:38.538] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 09:21:38.550] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_fixed15.osim
+[2024-03-03 09:21:38.551] [warning] Couldn't find file 'femur.vtp'.
+[2024-03-03 09:21:38.551] [warning] Couldn't find file '.\Geometry\OK_femur_cartilage_med.obj'.
+[2024-03-03 09:21:38.551] [warning] Couldn't find file '.\Geometry\OK_femur.obj'.
+[2024-03-03 09:21:38.551] [warning] Couldn't find file '.\Geometry\OK_tibia.obj'.
+[2024-03-03 09:22:25.603] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 09:22:25.615] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_fixed15.osim
+[2024-03-03 09:22:25.616] [warning] Couldn't find file 'femur.vtp'.
+[2024-03-03 09:22:25.616] [warning] Couldn't find file '.\Geometry\OK_femur.obj'.
+[2024-03-03 09:22:25.616] [warning] Couldn't find file '.\Geometry\OK_tibia.obj'.
+[2024-03-03 09:22:51.460] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 09:22:51.471] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_fixed15.osim
+[2024-03-03 09:22:51.478] [warning] Couldn't find file '.\Geometry\OK_femur.obj'.
+[2024-03-03 09:22:51.478] [warning] Couldn't find file '.\Geometry\OK_tibia.obj'.
+[2024-03-03 09:29:11.002] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 09:29:11.014] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_fixed15.osim
+[2024-03-03 09:37:32.715] [warning] 
+    THIS EXECUTABLE IS DEPRECATED AND WILL BE REMOVED IN A FUTURE RELEASE.
+
+    Use opensim-cmd instead, which can do everything that this executable can.
+
+      forward -S SetupFileName -> opensim-cmd run-tool SetupFileName
+      forward -PS              -> opensim-cmd print-xml forward
+    
+[2024-03-03 09:37:32.715] [info] Loaded library osimActuators
+[2024-03-03 09:37:32.715] [info] Constructing tool from setup file ./Passive_Flexion/FD_Setup.xml
+[2024-03-03 09:37:32.717] [info] AbstractTool Runner18 loading model ../runner18_scaled_passiveFlex.osim
+[2024-03-03 09:37:32.725] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 09:37:32.751] [info] Loaded model Runner18 from file ../runner18_scaled_passiveFlex.osim
+[2024-03-03 09:37:32.752] [warning] Couldn't find file 'femur.vtp'.
+[2024-03-03 09:37:32.752] [warning] Couldn't find file '.\Geometry\OK_femur_cartilage_lat.obj'.
+[2024-03-03 09:37:32.752] [warning] Couldn't find file '.\Geometry\OK_femur_cartilage_med.obj'.
+[2024-03-03 09:37:32.752] [warning] Couldn't find file '.\Geometry\OK_femur.obj'.
+[2024-03-03 09:37:32.752] [warning] Couldn't find file 'tibia.vtp'.
+[2024-03-03 09:37:32.752] [warning] Couldn't find file '.\Geometry\OK_tibia.obj'.
+[2024-03-03 09:37:32.757] [info] --------------------------------------------------------------
+[2024-03-03 09:37:32.757] [warning] Running tool Runner18...
+[2024-03-03 09:37:32.757] [info] No external loads will be applied (external loads file not specified).
+[2024-03-03 09:37:32.936] [cout] [info] MODEL: Runner18
+
+numStates = 75
+numCoordinates = 16
+numSpeeds = 16
+numActuators = 21
+numBodies = 4
+numConstraints = 0
+numProbes = 0
+
+ANALYSES (total: 2)
+analysis[0] = ForceReporter
+analysis[1] = PointKinematics
+
+BODIES (total: 4)
+body[0] = pelvis. mass: 12.1489
+              moments of inertia:  ~[0.134454,0.113919,0.0757283]
+              products of inertia: ~[0,0,0]
+body[1] = femur_r. mass: 9.59514
+              moments of inertia:  ~[0.177627,0.0465625,0.187311]
+              products of inertia: ~[0,0,0]
+body[2] = patella_r. mass: 0.4875
+              moments of inertia:  ~[1.6e-05,7.4e-05,7.4e-05]
+              products of inertia: ~[0,0,0]
+body[3] = tibia_r. mass: 3.82458
+              moments of inertia:  ~[0.0349592,0.00353754,0.0354447]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 4)
+joint[0] = ground_pelvis. parent: ground_offset, child: pelvis_offset
+joint[1] = hip_r. parent: pelvis_offset, child: femur_r_offset
+joint[2] = pf_r. parent: femur_r_offset, child: patella_r_offset
+joint[3] = knee_r. parent: femur_r_offset, child: tibia_r_offset
+
+ACTUATORS (total: 21)
+actuator[0] = vas_med_r
+actuator[1] = vas_int_r
+actuator[2] = vas_lat_r
+actuator[3] = aACL_muscle
+actuator[4] = pACL_muscle
+actuator[5] = aPCL_muscle
+actuator[6] = pPCL_muscle
+actuator[7] = LCL_muscle
+actuator[8] = PFL_muscle
+actuator[9] = CAPa_muscle
+actuator[10] = CAPl_muscle
+actuator[11] = CAPo_muscle
+actuator[12] = CAPm_muscle
+actuator[13] = aMCL_muscle
+actuator[14] = iMCL_muscle
+actuator[15] = pMCL_muscle
+actuator[16] = aCM_muscle
+actuator[17] = pCM_muscle
+actuator[18] = cPT_muscle
+actuator[19] = mPT_muscle
+actuator[20] = lPT_muscle
+
+STATES (total: 74)
+y[0] = /jointset/ground_pelvis/pelvis_tilt/value
+y[1] = /jointset/ground_pelvis/pelvis_tilt/speed
+y[2] = /jointset/ground_pelvis/pelvis_list/value
+y[3] = /jointset/ground_pelvis/pelvis_list/speed
+y[4] = /jointset/ground_pelvis/pelvis_rotation/value
+y[5] = /jointset/ground_pelvis/pelvis_rotation/speed
+y[6] = /jointset/ground_pelvis/pelvis_tx/value
+y[7] = /jointset/ground_pelvis/pelvis_tx/speed
+y[8] = /jointset/ground_pelvis/pelvis_ty/value
+y[9] = /jointset/ground_pelvis/pelvis_ty/speed
+y[10] = /jointset/ground_pelvis/pelvis_tz/value
+y[11] = /jointset/ground_pelvis/pelvis_tz/speed
+y[12] = /jointset/hip_r/hip_flexion_r/value
+y[13] = /jointset/hip_r/hip_flexion_r/speed
+y[14] = /jointset/hip_r/hip_adduction_r/value
+y[15] = /jointset/hip_r/hip_adduction_r/speed
+y[16] = /jointset/hip_r/hip_rotation_r/value
+y[17] = /jointset/hip_r/hip_rotation_r/speed
+y[18] = /jointset/pf_r/pf_ty_r/value
+y[19] = /jointset/pf_r/pf_ty_r/speed
+y[20] = /jointset/knee_r/knee_angle_r/value
+y[21] = /jointset/knee_r/knee_angle_r/speed
+y[22] = /jointset/knee_r/knee_add_r/value
+y[23] = /jointset/knee_r/knee_add_r/speed
+y[24] = /jointset/knee_r/knee_rot_r/value
+y[25] = /jointset/knee_r/knee_rot_r/speed
+y[26] = /jointset/knee_r/knee_tx_r/value
+y[27] = /jointset/knee_r/knee_tx_r/speed
+y[28] = /jointset/knee_r/knee_ty_r/value
+y[29] = /jointset/knee_r/knee_ty_r/speed
+y[30] = /jointset/knee_r/knee_tz_r/value
+y[31] = /jointset/knee_r/knee_tz_r/speed
+y[32] = /forceset/vas_med_r/activation
+y[33] = /forceset/vas_med_r/fiber_length
+y[34] = /forceset/vas_int_r/activation
+y[35] = /forceset/vas_int_r/fiber_length
+y[36] = /forceset/vas_lat_r/activation
+y[37] = /forceset/vas_lat_r/fiber_length
+y[38] = /forceset/aACL_muscle/activation
+y[39] = /forceset/aACL_muscle/fiber_length
+y[40] = /forceset/pACL_muscle/activation
+y[41] = /forceset/pACL_muscle/fiber_length
+y[42] = /forceset/aPCL_muscle/activation
+y[43] = /forceset/aPCL_muscle/fiber_length
+y[44] = /forceset/pPCL_muscle/activation
+y[45] = /forceset/pPCL_muscle/fiber_length
+y[46] = /forceset/LCL_muscle/activation
+y[47] = /forceset/LCL_muscle/fiber_length
+y[48] = /forceset/PFL_muscle/activation
+y[49] = /forceset/PFL_muscle/fiber_length
+y[50] = /forceset/CAPa_muscle/activation
+y[51] = /forceset/CAPa_muscle/fiber_length
+y[52] = /forceset/CAPl_muscle/activation
+y[53] = /forceset/CAPl_muscle/fiber_length
+y[54] = /forceset/CAPo_muscle/activation
+y[55] = /forceset/CAPo_muscle/fiber_length
+y[56] = /forceset/CAPm_muscle/activation
+y[57] = /forceset/CAPm_muscle/fiber_length
+y[58] = /forceset/aMCL_muscle/activation
+y[59] = /forceset/aMCL_muscle/fiber_length
+y[60] = /forceset/iMCL_muscle/activation
+y[61] = /forceset/iMCL_muscle/fiber_length
+y[62] = /forceset/pMCL_muscle/activation
+y[63] = /forceset/pMCL_muscle/fiber_length
+y[64] = /forceset/aCM_muscle/activation
+y[65] = /forceset/aCM_muscle/fiber_length
+y[66] = /forceset/pCM_muscle/activation
+y[67] = /forceset/pCM_muscle/fiber_length
+y[68] = /forceset/cPT_muscle/activation
+y[69] = /forceset/cPT_muscle/fiber_length
+y[70] = /forceset/mPT_muscle/activation
+y[71] = /forceset/mPT_muscle/fiber_length
+y[72] = /forceset/lPT_muscle/activation
+y[73] = /forceset/lPT_muscle/fiber_length
+
+[2024-03-03 09:37:32.937] [info] Integrating from 0.0 to 40.0.
+[2024-03-03 09:39:58.947] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 09:39:58.959] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled.osim
+[2024-03-03 09:39:58.960] [warning] Couldn't find file 'femur.vtp'.
+[2024-03-03 09:39:58.960] [warning] Couldn't find file '.\Geometry\OK_femur_cartilage_lat.obj'.
+[2024-03-03 09:39:58.960] [warning] Couldn't find file '.\Geometry\OK_femur_cartilage_med.obj'.
+[2024-03-03 09:39:58.960] [warning] Couldn't find file '.\Geometry\OK_femur.obj'.
+[2024-03-03 09:39:58.960] [warning] Couldn't find file 'tibia.vtp'.
+[2024-03-03 09:39:58.960] [warning] Couldn't find file '.\Geometry\OK_tibia.obj'.
+[2024-03-03 09:43:05.960] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 09:43:05.973] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled.osim
+[2024-03-03 09:43:05.974] [warning] Couldn't find file '.\Geometry\OK_femur_cartilage_lat.obj'.
+[2024-03-03 09:43:05.974] [warning] Couldn't find file '.\Geometry\OK_femur_cartilage_med.obj'.
+[2024-03-03 09:43:47.739] [warning] 
+    THIS EXECUTABLE IS DEPRECATED AND WILL BE REMOVED IN A FUTURE RELEASE.
+
+    Use opensim-cmd instead, which can do everything that this executable can.
+
+      forward -S SetupFileName -> opensim-cmd run-tool SetupFileName
+      forward -PS              -> opensim-cmd print-xml forward
+    
+[2024-03-03 09:43:47.739] [info] Loaded library osimActuators
+[2024-03-03 09:43:47.739] [info] Constructing tool from setup file ./Passive_Flexion/FD_Setup.xml
+[2024-03-03 09:43:47.740] [info] AbstractTool Runner18 loading model ../runner18_scaled_passiveFlex.osim
+[2024-03-03 09:43:47.745] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 09:43:47.762] [info] Loaded model Runner18 from file ../runner18_scaled_passiveFlex.osim
+[2024-03-03 09:43:47.763] [warning] Couldn't find file 'femur.vtp'.
+[2024-03-03 09:43:47.763] [warning] Couldn't find file '.\Geometry\OK_femur_cartilage_lat.obj'.
+[2024-03-03 09:43:47.763] [warning] Couldn't find file '.\Geometry\OK_femur_cartilage_med.obj'.
+[2024-03-03 09:43:47.763] [warning] Couldn't find file '.\Geometry\OK_femur.obj'.
+[2024-03-03 09:43:47.763] [warning] Couldn't find file 'tibia.vtp'.
+[2024-03-03 09:43:47.763] [warning] Couldn't find file '.\Geometry\OK_tibia.obj'.
+[2024-03-03 09:43:47.765] [info] --------------------------------------------------------------
+[2024-03-03 09:43:47.765] [warning] Running tool Runner18...
+[2024-03-03 09:43:47.765] [info] No external loads will be applied (external loads file not specified).
+[2024-03-03 09:43:47.926] [cout] [info] MODEL: Runner18
+
+numStates = 75
+numCoordinates = 16
+numSpeeds = 16
+numActuators = 21
+numBodies = 4
+numConstraints = 0
+numProbes = 0
+
+ANALYSES (total: 2)
+analysis[0] = ForceReporter
+analysis[1] = PointKinematics
+
+BODIES (total: 4)
+body[0] = pelvis. mass: 12.1489
+              moments of inertia:  ~[0.134454,0.113919,0.0757283]
+              products of inertia: ~[0,0,0]
+body[1] = femur_r. mass: 9.59514
+              moments of inertia:  ~[0.177627,0.0465625,0.187311]
+              products of inertia: ~[0,0,0]
+body[2] = patella_r. mass: 0.4875
+              moments of inertia:  ~[1.6e-05,7.4e-05,7.4e-05]
+              products of inertia: ~[0,0,0]
+body[3] = tibia_r. mass: 3.82458
+              moments of inertia:  ~[0.0349592,0.00353754,0.0354447]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 4)
+joint[0] = ground_pelvis. parent: ground_offset, child: pelvis_offset
+joint[1] = hip_r. parent: pelvis_offset, child: femur_r_offset
+joint[2] = pf_r. parent: femur_r_offset, child: patella_r_offset
+joint[3] = knee_r. parent: femur_r_offset, child: tibia_r_offset
+
+ACTUATORS (total: 21)
+actuator[0] = vas_med_r
+actuator[1] = vas_int_r
+actuator[2] = vas_lat_r
+actuator[3] = aACL_muscle
+actuator[4] = pACL_muscle
+actuator[5] = aPCL_muscle
+actuator[6] = pPCL_muscle
+actuator[7] = LCL_muscle
+actuator[8] = PFL_muscle
+actuator[9] = CAPa_muscle
+actuator[10] = CAPl_muscle
+actuator[11] = CAPo_muscle
+actuator[12] = CAPm_muscle
+actuator[13] = aMCL_muscle
+actuator[14] = iMCL_muscle
+actuator[15] = pMCL_muscle
+actuator[16] = aCM_muscle
+actuator[17] = pCM_muscle
+actuator[18] = cPT_muscle
+actuator[19] = mPT_muscle
+actuator[20] = lPT_muscle
+
+STATES (total: 74)
+y[0] = /jointset/ground_pelvis/pelvis_tilt/value
+y[1] = /jointset/ground_pelvis/pelvis_tilt/speed
+y[2] = /jointset/ground_pelvis/pelvis_list/value
+y[3] = /jointset/ground_pelvis/pelvis_list/speed
+y[4] = /jointset/ground_pelvis/pelvis_rotation/value
+y[5] = /jointset/ground_pelvis/pelvis_rotation/speed
+y[6] = /jointset/ground_pelvis/pelvis_tx/value
+y[7] = /jointset/ground_pelvis/pelvis_tx/speed
+y[8] = /jointset/ground_pelvis/pelvis_ty/value
+y[9] = /jointset/ground_pelvis/pelvis_ty/speed
+y[10] = /jointset/ground_pelvis/pelvis_tz/value
+y[11] = /jointset/ground_pelvis/pelvis_tz/speed
+y[12] = /jointset/hip_r/hip_flexion_r/value
+y[13] = /jointset/hip_r/hip_flexion_r/speed
+y[14] = /jointset/hip_r/hip_adduction_r/value
+y[15] = /jointset/hip_r/hip_adduction_r/speed
+y[16] = /jointset/hip_r/hip_rotation_r/value
+y[17] = /jointset/hip_r/hip_rotation_r/speed
+y[18] = /jointset/pf_r/pf_ty_r/value
+y[19] = /jointset/pf_r/pf_ty_r/speed
+y[20] = /jointset/knee_r/knee_angle_r/value
+y[21] = /jointset/knee_r/knee_angle_r/speed
+y[22] = /jointset/knee_r/knee_add_r/value
+y[23] = /jointset/knee_r/knee_add_r/speed
+y[24] = /jointset/knee_r/knee_rot_r/value
+y[25] = /jointset/knee_r/knee_rot_r/speed
+y[26] = /jointset/knee_r/knee_tx_r/value
+y[27] = /jointset/knee_r/knee_tx_r/speed
+y[28] = /jointset/knee_r/knee_ty_r/value
+y[29] = /jointset/knee_r/knee_ty_r/speed
+y[30] = /jointset/knee_r/knee_tz_r/value
+y[31] = /jointset/knee_r/knee_tz_r/speed
+y[32] = /forceset/vas_med_r/activation
+y[33] = /forceset/vas_med_r/fiber_length
+y[34] = /forceset/vas_int_r/activation
+y[35] = /forceset/vas_int_r/fiber_length
+y[36] = /forceset/vas_lat_r/activation
+y[37] = /forceset/vas_lat_r/fiber_length
+y[38] = /forceset/aACL_muscle/activation
+y[39] = /forceset/aACL_muscle/fiber_length
+y[40] = /forceset/pACL_muscle/activation
+y[41] = /forceset/pACL_muscle/fiber_length
+y[42] = /forceset/aPCL_muscle/activation
+y[43] = /forceset/aPCL_muscle/fiber_length
+y[44] = /forceset/pPCL_muscle/activation
+y[45] = /forceset/pPCL_muscle/fiber_length
+y[46] = /forceset/LCL_muscle/activation
+y[47] = /forceset/LCL_muscle/fiber_length
+y[48] = /forceset/PFL_muscle/activation
+y[49] = /forceset/PFL_muscle/fiber_length
+y[50] = /forceset/CAPa_muscle/activation
+y[51] = /forceset/CAPa_muscle/fiber_length
+y[52] = /forceset/CAPl_muscle/activation
+y[53] = /forceset/CAPl_muscle/fiber_length
+y[54] = /forceset/CAPo_muscle/activation
+y[55] = /forceset/CAPo_muscle/fiber_length
+y[56] = /forceset/CAPm_muscle/activation
+y[57] = /forceset/CAPm_muscle/fiber_length
+y[58] = /forceset/aMCL_muscle/activation
+y[59] = /forceset/aMCL_muscle/fiber_length
+y[60] = /forceset/iMCL_muscle/activation
+y[61] = /forceset/iMCL_muscle/fiber_length
+y[62] = /forceset/pMCL_muscle/activation
+y[63] = /forceset/pMCL_muscle/fiber_length
+y[64] = /forceset/aCM_muscle/activation
+y[65] = /forceset/aCM_muscle/fiber_length
+y[66] = /forceset/pCM_muscle/activation
+y[67] = /forceset/pCM_muscle/fiber_length
+y[68] = /forceset/cPT_muscle/activation
+y[69] = /forceset/cPT_muscle/fiber_length
+y[70] = /forceset/mPT_muscle/activation
+y[71] = /forceset/mPT_muscle/fiber_length
+y[72] = /forceset/lPT_muscle/activation
+y[73] = /forceset/lPT_muscle/fiber_length
+
+[2024-03-03 09:43:47.927] [info] Integrating from 0.0 to 40.0.
+[2024-03-03 09:47:23.187] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 09:47:23.202] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 09:47:49.748] [warning] 
+    THIS EXECUTABLE IS DEPRECATED AND WILL BE REMOVED IN A FUTURE RELEASE.
+
+    Use opensim-cmd instead, which can do everything that this executable can.
+
+      forward -S SetupFileName -> opensim-cmd run-tool SetupFileName
+      forward -PS              -> opensim-cmd print-xml forward
+    
+[2024-03-03 09:47:49.749] [info] Loaded library osimActuators
+[2024-03-03 09:47:49.749] [info] Constructing tool from setup file ./Passive_Flexion/FD_Setup.xml
+[2024-03-03 09:47:49.750] [info] AbstractTool Runner18 loading model ../runner18_scaled_passiveFlex.osim
+[2024-03-03 09:47:49.755] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 09:47:49.775] [info] Loaded model Runner18 from file ../runner18_scaled_passiveFlex.osim
+[2024-03-03 09:47:49.778] [info] --------------------------------------------------------------
+[2024-03-03 09:47:49.778] [warning] Running tool Runner18...
+[2024-03-03 09:47:49.778] [info] No external loads will be applied (external loads file not specified).
+[2024-03-03 09:47:49.947] [cout] [info] MODEL: Runner18
+
+numStates = 75
+numCoordinates = 16
+numSpeeds = 16
+numActuators = 21
+numBodies = 4
+numConstraints = 0
+numProbes = 0
+
+ANALYSES (total: 2)
+analysis[0] = ForceReporter
+analysis[1] = PointKinematics
+
+BODIES (total: 4)
+body[0] = pelvis. mass: 12.1489
+              moments of inertia:  ~[0.134454,0.113919,0.0757283]
+              products of inertia: ~[0,0,0]
+body[1] = femur_r. mass: 9.59514
+              moments of inertia:  ~[0.177627,0.0465625,0.187311]
+              products of inertia: ~[0,0,0]
+body[2] = patella_r. mass: 0.4875
+              moments of inertia:  ~[1.6e-05,7.4e-05,7.4e-05]
+              products of inertia: ~[0,0,0]
+body[3] = tibia_r. mass: 3.82458
+              moments of inertia:  ~[0.0349592,0.00353754,0.0354447]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 4)
+joint[0] = ground_pelvis. parent: ground_offset, child: pelvis_offset
+joint[1] = hip_r. parent: pelvis_offset, child: femur_r_offset
+joint[2] = pf_r. parent: femur_r_offset, child: patella_r_offset
+joint[3] = knee_r. parent: femur_r_offset, child: tibia_r_offset
+
+ACTUATORS (total: 21)
+actuator[0] = vas_med_r
+actuator[1] = vas_int_r
+actuator[2] = vas_lat_r
+actuator[3] = aACL_muscle
+actuator[4] = pACL_muscle
+actuator[5] = aPCL_muscle
+actuator[6] = pPCL_muscle
+actuator[7] = LCL_muscle
+actuator[8] = PFL_muscle
+actuator[9] = CAPa_muscle
+actuator[10] = CAPl_muscle
+actuator[11] = CAPo_muscle
+actuator[12] = CAPm_muscle
+actuator[13] = aMCL_muscle
+actuator[14] = iMCL_muscle
+actuator[15] = pMCL_muscle
+actuator[16] = aCM_muscle
+actuator[17] = pCM_muscle
+actuator[18] = cPT_muscle
+actuator[19] = mPT_muscle
+actuator[20] = lPT_muscle
+
+STATES (total: 74)
+y[0] = /jointset/ground_pelvis/pelvis_tilt/value
+y[1] = /jointset/ground_pelvis/pelvis_tilt/speed
+y[2] = /jointset/ground_pelvis/pelvis_list/value
+y[3] = /jointset/ground_pelvis/pelvis_list/speed
+y[4] = /jointset/ground_pelvis/pelvis_rotation/value
+y[5] = /jointset/ground_pelvis/pelvis_rotation/speed
+y[6] = /jointset/ground_pelvis/pelvis_tx/value
+y[7] = /jointset/ground_pelvis/pelvis_tx/speed
+y[8] = /jointset/ground_pelvis/pelvis_ty/value
+y[9] = /jointset/ground_pelvis/pelvis_ty/speed
+y[10] = /jointset/ground_pelvis/pelvis_tz/value
+y[11] = /jointset/ground_pelvis/pelvis_tz/speed
+y[12] = /jointset/hip_r/hip_flexion_r/value
+y[13] = /jointset/hip_r/hip_flexion_r/speed
+y[14] = /jointset/hip_r/hip_adduction_r/value
+y[15] = /jointset/hip_r/hip_adduction_r/speed
+y[16] = /jointset/hip_r/hip_rotation_r/value
+y[17] = /jointset/hip_r/hip_rotation_r/speed
+y[18] = /jointset/pf_r/pf_ty_r/value
+y[19] = /jointset/pf_r/pf_ty_r/speed
+y[20] = /jointset/knee_r/knee_angle_r/value
+y[21] = /jointset/knee_r/knee_angle_r/speed
+y[22] = /jointset/knee_r/knee_add_r/value
+y[23] = /jointset/knee_r/knee_add_r/speed
+y[24] = /jointset/knee_r/knee_rot_r/value
+y[25] = /jointset/knee_r/knee_rot_r/speed
+y[26] = /jointset/knee_r/knee_tx_r/value
+y[27] = /jointset/knee_r/knee_tx_r/speed
+y[28] = /jointset/knee_r/knee_ty_r/value
+y[29] = /jointset/knee_r/knee_ty_r/speed
+y[30] = /jointset/knee_r/knee_tz_r/value
+y[31] = /jointset/knee_r/knee_tz_r/speed
+y[32] = /forceset/vas_med_r/activation
+y[33] = /forceset/vas_med_r/fiber_length
+y[34] = /forceset/vas_int_r/activation
+y[35] = /forceset/vas_int_r/fiber_length
+y[36] = /forceset/vas_lat_r/activation
+y[37] = /forceset/vas_lat_r/fiber_length
+y[38] = /forceset/aACL_muscle/activation
+y[39] = /forceset/aACL_muscle/fiber_length
+y[40] = /forceset/pACL_muscle/activation
+y[41] = /forceset/pACL_muscle/fiber_length
+y[42] = /forceset/aPCL_muscle/activation
+y[43] = /forceset/aPCL_muscle/fiber_length
+y[44] = /forceset/pPCL_muscle/activation
+y[45] = /forceset/pPCL_muscle/fiber_length
+y[46] = /forceset/LCL_muscle/activation
+y[47] = /forceset/LCL_muscle/fiber_length
+y[48] = /forceset/PFL_muscle/activation
+y[49] = /forceset/PFL_muscle/fiber_length
+y[50] = /forceset/CAPa_muscle/activation
+y[51] = /forceset/CAPa_muscle/fiber_length
+y[52] = /forceset/CAPl_muscle/activation
+y[53] = /forceset/CAPl_muscle/fiber_length
+y[54] = /forceset/CAPo_muscle/activation
+y[55] = /forceset/CAPo_muscle/fiber_length
+y[56] = /forceset/CAPm_muscle/activation
+y[57] = /forceset/CAPm_muscle/fiber_length
+y[58] = /forceset/aMCL_muscle/activation
+y[59] = /forceset/aMCL_muscle/fiber_length
+y[60] = /forceset/iMCL_muscle/activation
+y[61] = /forceset/iMCL_muscle/fiber_length
+y[62] = /forceset/pMCL_muscle/activation
+y[63] = /forceset/pMCL_muscle/fiber_length
+y[64] = /forceset/aCM_muscle/activation
+y[65] = /forceset/aCM_muscle/fiber_length
+y[66] = /forceset/pCM_muscle/activation
+y[67] = /forceset/pCM_muscle/fiber_length
+y[68] = /forceset/cPT_muscle/activation
+y[69] = /forceset/cPT_muscle/fiber_length
+y[70] = /forceset/mPT_muscle/activation
+y[71] = /forceset/mPT_muscle/fiber_length
+y[72] = /forceset/lPT_muscle/activation
+y[73] = /forceset/lPT_muscle/fiber_length
+
+[2024-03-03 09:47:49.947] [info] Integrating from 0.0 to 40.0.
+[2024-03-03 09:49:50.621] [warning] 
+    THIS EXECUTABLE IS DEPRECATED AND WILL BE REMOVED IN A FUTURE RELEASE.
+
+    Use opensim-cmd instead, which can do everything that this executable can.
+
+      forward -S SetupFileName -> opensim-cmd run-tool SetupFileName
+      forward -PS              -> opensim-cmd print-xml forward
+    
+[2024-03-03 09:49:50.621] [info] Loaded library osimActuators
+[2024-03-03 09:49:50.622] [info] Constructing tool from setup file ./AP_Laxity/FD_Setup_ap0.xml
+[2024-03-03 09:49:50.623] [info] AbstractTool ap0_sim loading model ../runner18_scaled_fixed0.osim
+[2024-03-03 09:49:50.629] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 09:49:50.645] [info] Loaded model Runner18 from file ../runner18_scaled_fixed0.osim
+[2024-03-03 09:49:50.645] [warning] Couldn't find file 'femur.vtp'.
+[2024-03-03 09:49:50.646] [warning] Couldn't find file '.\Geometry\OK_femur_cartilage_lat.obj'.
+[2024-03-03 09:49:50.646] [warning] Couldn't find file '.\Geometry\OK_femur_cartilage_med.obj'.
+[2024-03-03 09:49:50.646] [warning] Couldn't find file '.\Geometry\OK_femur.obj'.
+[2024-03-03 09:49:50.646] [warning] Couldn't find file 'tibia.vtp'.
+[2024-03-03 09:49:50.646] [warning] Couldn't find file '.\Geometry\OK_tibia.obj'.
+[2024-03-03 09:49:50.648] [info] --------------------------------------------------------------
+[2024-03-03 09:49:50.648] [warning] Running tool ap0_sim...
+[2024-03-03 09:49:50.658] [info] Old version storage/motion file encountered
+[2024-03-03 09:49:50.658] [info] Storage: read data file = ap_0.mot (nr=2801 nc=7)
+[2024-03-03 09:49:50.658] [info] .. assuming rotations in Degrees..
+[2024-03-03 09:49:50.668] [info] ExternalForce::ExternalForce_1 Data source being set to ../AP_Laxity/ap_0.mot
+[2024-03-03 09:49:50.832] [cout] [info] MODEL: Runner18
+
+numStates = 75
+numCoordinates = 16
+numSpeeds = 16
+numActuators = 21
+numBodies = 4
+numConstraints = 0
+numProbes = 0
+
+ANALYSES (total: 1)
+analysis[0] = ForceReporter
+
+BODIES (total: 4)
+body[0] = pelvis. mass: 12.1489
+              moments of inertia:  ~[0.134454,0.113919,0.0757283]
+              products of inertia: ~[0,0,0]
+body[1] = femur_r. mass: 9.59514
+              moments of inertia:  ~[0.177627,0.0465625,0.187311]
+              products of inertia: ~[0,0,0]
+body[2] = patella_r. mass: 0.4875
+              moments of inertia:  ~[1.6e-05,7.4e-05,7.4e-05]
+              products of inertia: ~[0,0,0]
+body[3] = tibia_r. mass: 3.82458
+              moments of inertia:  ~[0.0349592,0.00353754,0.0354447]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 4)
+joint[0] = ground_pelvis. parent: ground_offset, child: pelvis_offset
+joint[1] = hip_r. parent: pelvis_offset, child: femur_r_offset
+joint[2] = pf_r. parent: femur_r_offset, child: patella_r_offset
+joint[3] = knee_r. parent: femur_r_offset, child: tibia_r_offset
+
+ACTUATORS (total: 21)
+actuator[0] = vas_med_r
+actuator[1] = vas_int_r
+actuator[2] = vas_lat_r
+actuator[3] = aACL_muscle
+actuator[4] = pACL_muscle
+actuator[5] = aPCL_muscle
+actuator[6] = pPCL_muscle
+actuator[7] = LCL_muscle
+actuator[8] = PFL_muscle
+actuator[9] = CAPa_muscle
+actuator[10] = CAPl_muscle
+actuator[11] = CAPo_muscle
+actuator[12] = CAPm_muscle
+actuator[13] = aMCL_muscle
+actuator[14] = iMCL_muscle
+actuator[15] = pMCL_muscle
+actuator[16] = aCM_muscle
+actuator[17] = pCM_muscle
+actuator[18] = cPT_muscle
+actuator[19] = mPT_muscle
+actuator[20] = lPT_muscle
+
+STATES (total: 74)
+y[0] = /jointset/ground_pelvis/pelvis_tilt/value
+y[1] = /jointset/ground_pelvis/pelvis_tilt/speed
+y[2] = /jointset/ground_pelvis/pelvis_list/value
+y[3] = /jointset/ground_pelvis/pelvis_list/speed
+y[4] = /jointset/ground_pelvis/pelvis_rotation/value
+y[5] = /jointset/ground_pelvis/pelvis_rotation/speed
+y[6] = /jointset/ground_pelvis/pelvis_tx/value
+y[7] = /jointset/ground_pelvis/pelvis_tx/speed
+y[8] = /jointset/ground_pelvis/pelvis_ty/value
+y[9] = /jointset/ground_pelvis/pelvis_ty/speed
+y[10] = /jointset/ground_pelvis/pelvis_tz/value
+y[11] = /jointset/ground_pelvis/pelvis_tz/speed
+y[12] = /jointset/hip_r/hip_flexion_r/value
+y[13] = /jointset/hip_r/hip_flexion_r/speed
+y[14] = /jointset/hip_r/hip_adduction_r/value
+y[15] = /jointset/hip_r/hip_adduction_r/speed
+y[16] = /jointset/hip_r/hip_rotation_r/value
+y[17] = /jointset/hip_r/hip_rotation_r/speed
+y[18] = /jointset/pf_r/pf_ty_r/value
+y[19] = /jointset/pf_r/pf_ty_r/speed
+y[20] = /jointset/knee_r/knee_angle_r/value
+y[21] = /jointset/knee_r/knee_angle_r/speed
+y[22] = /jointset/knee_r/knee_add_r/value
+y[23] = /jointset/knee_r/knee_add_r/speed
+y[24] = /jointset/knee_r/knee_rot_r/value
+y[25] = /jointset/knee_r/knee_rot_r/speed
+y[26] = /jointset/knee_r/knee_tx_r/value
+y[27] = /jointset/knee_r/knee_tx_r/speed
+y[28] = /jointset/knee_r/knee_ty_r/value
+y[29] = /jointset/knee_r/knee_ty_r/speed
+y[30] = /jointset/knee_r/knee_tz_r/value
+y[31] = /jointset/knee_r/knee_tz_r/speed
+y[32] = /forceset/vas_med_r/activation
+y[33] = /forceset/vas_med_r/fiber_length
+y[34] = /forceset/vas_int_r/activation
+y[35] = /forceset/vas_int_r/fiber_length
+y[36] = /forceset/vas_lat_r/activation
+y[37] = /forceset/vas_lat_r/fiber_length
+y[38] = /forceset/aACL_muscle/activation
+y[39] = /forceset/aACL_muscle/fiber_length
+y[40] = /forceset/pACL_muscle/activation
+y[41] = /forceset/pACL_muscle/fiber_length
+y[42] = /forceset/aPCL_muscle/activation
+y[43] = /forceset/aPCL_muscle/fiber_length
+y[44] = /forceset/pPCL_muscle/activation
+y[45] = /forceset/pPCL_muscle/fiber_length
+y[46] = /forceset/LCL_muscle/activation
+y[47] = /forceset/LCL_muscle/fiber_length
+y[48] = /forceset/PFL_muscle/activation
+y[49] = /forceset/PFL_muscle/fiber_length
+y[50] = /forceset/CAPa_muscle/activation
+y[51] = /forceset/CAPa_muscle/fiber_length
+y[52] = /forceset/CAPl_muscle/activation
+y[53] = /forceset/CAPl_muscle/fiber_length
+y[54] = /forceset/CAPo_muscle/activation
+y[55] = /forceset/CAPo_muscle/fiber_length
+y[56] = /forceset/CAPm_muscle/activation
+y[57] = /forceset/CAPm_muscle/fiber_length
+y[58] = /forceset/aMCL_muscle/activation
+y[59] = /forceset/aMCL_muscle/fiber_length
+y[60] = /forceset/iMCL_muscle/activation
+y[61] = /forceset/iMCL_muscle/fiber_length
+y[62] = /forceset/pMCL_muscle/activation
+y[63] = /forceset/pMCL_muscle/fiber_length
+y[64] = /forceset/aCM_muscle/activation
+y[65] = /forceset/aCM_muscle/fiber_length
+y[66] = /forceset/pCM_muscle/activation
+y[67] = /forceset/pCM_muscle/fiber_length
+y[68] = /forceset/cPT_muscle/activation
+y[69] = /forceset/cPT_muscle/fiber_length
+y[70] = /forceset/mPT_muscle/activation
+y[71] = /forceset/mPT_muscle/fiber_length
+y[72] = /forceset/lPT_muscle/activation
+y[73] = /forceset/lPT_muscle/fiber_length
+
+[2024-03-03 09:49:50.833] [info] Integrating from 0.0 to 28.0.
+[2024-03-03 10:33:18.734] [warning] 
+    THIS EXECUTABLE IS DEPRECATED AND WILL BE REMOVED IN A FUTURE RELEASE.
+
+    Use opensim-cmd instead, which can do everything that this executable can.
+
+      forward -S SetupFileName -> opensim-cmd run-tool SetupFileName
+      forward -PS              -> opensim-cmd print-xml forward
+    
+[2024-03-03 10:33:18.735] [info] Loaded library osimActuators
+[2024-03-03 10:33:18.735] [info] Constructing tool from setup file ./Passive_Flexion/FD_Setup.xml
+[2024-03-03 10:33:18.737] [info] AbstractTool Runner18 loading model ../runner18_scaled_passiveFlex.osim
+[2024-03-03 10:33:18.741] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 10:33:18.762] [info] Loaded model Runner18 from file ../runner18_scaled_passiveFlex.osim
+[2024-03-03 10:33:18.766] [info] --------------------------------------------------------------
+[2024-03-03 10:33:18.766] [warning] Running tool Runner18...
+[2024-03-03 10:33:18.766] [info] No external loads will be applied (external loads file not specified).
+[2024-03-03 10:33:18.949] [cout] [info] MODEL: Runner18
+
+numStates = 75
+numCoordinates = 16
+numSpeeds = 16
+numActuators = 21
+numBodies = 4
+numConstraints = 0
+numProbes = 0
+
+ANALYSES (total: 2)
+analysis[0] = ForceReporter
+analysis[1] = PointKinematics
+
+BODIES (total: 4)
+body[0] = pelvis. mass: 12.1489
+              moments of inertia:  ~[0.134454,0.113919,0.0757283]
+              products of inertia: ~[0,0,0]
+body[1] = femur_r. mass: 9.59514
+              moments of inertia:  ~[0.177627,0.0465625,0.187311]
+              products of inertia: ~[0,0,0]
+body[2] = patella_r. mass: 0.4875
+              moments of inertia:  ~[1.6e-05,7.4e-05,7.4e-05]
+              products of inertia: ~[0,0,0]
+body[3] = tibia_r. mass: 3.82458
+              moments of inertia:  ~[0.0349592,0.00353754,0.0354447]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 4)
+joint[0] = ground_pelvis. parent: ground_offset, child: pelvis_offset
+joint[1] = hip_r. parent: pelvis_offset, child: femur_r_offset
+joint[2] = pf_r. parent: femur_r_offset, child: patella_r_offset
+joint[3] = knee_r. parent: femur_r_offset, child: tibia_r_offset
+
+ACTUATORS (total: 21)
+actuator[0] = vas_med_r
+actuator[1] = vas_int_r
+actuator[2] = vas_lat_r
+actuator[3] = aACL_muscle
+actuator[4] = pACL_muscle
+actuator[5] = aPCL_muscle
+actuator[6] = pPCL_muscle
+actuator[7] = LCL_muscle
+actuator[8] = PFL_muscle
+actuator[9] = CAPa_muscle
+actuator[10] = CAPl_muscle
+actuator[11] = CAPo_muscle
+actuator[12] = CAPm_muscle
+actuator[13] = aMCL_muscle
+actuator[14] = iMCL_muscle
+actuator[15] = pMCL_muscle
+actuator[16] = aCM_muscle
+actuator[17] = pCM_muscle
+actuator[18] = cPT_muscle
+actuator[19] = mPT_muscle
+actuator[20] = lPT_muscle
+
+STATES (total: 74)
+y[0] = /jointset/ground_pelvis/pelvis_tilt/value
+y[1] = /jointset/ground_pelvis/pelvis_tilt/speed
+y[2] = /jointset/ground_pelvis/pelvis_list/value
+y[3] = /jointset/ground_pelvis/pelvis_list/speed
+y[4] = /jointset/ground_pelvis/pelvis_rotation/value
+y[5] = /jointset/ground_pelvis/pelvis_rotation/speed
+y[6] = /jointset/ground_pelvis/pelvis_tx/value
+y[7] = /jointset/ground_pelvis/pelvis_tx/speed
+y[8] = /jointset/ground_pelvis/pelvis_ty/value
+y[9] = /jointset/ground_pelvis/pelvis_ty/speed
+y[10] = /jointset/ground_pelvis/pelvis_tz/value
+y[11] = /jointset/ground_pelvis/pelvis_tz/speed
+y[12] = /jointset/hip_r/hip_flexion_r/value
+y[13] = /jointset/hip_r/hip_flexion_r/speed
+y[14] = /jointset/hip_r/hip_adduction_r/value
+y[15] = /jointset/hip_r/hip_adduction_r/speed
+y[16] = /jointset/hip_r/hip_rotation_r/value
+y[17] = /jointset/hip_r/hip_rotation_r/speed
+y[18] = /jointset/pf_r/pf_ty_r/value
+y[19] = /jointset/pf_r/pf_ty_r/speed
+y[20] = /jointset/knee_r/knee_angle_r/value
+y[21] = /jointset/knee_r/knee_angle_r/speed
+y[22] = /jointset/knee_r/knee_add_r/value
+y[23] = /jointset/knee_r/knee_add_r/speed
+y[24] = /jointset/knee_r/knee_rot_r/value
+y[25] = /jointset/knee_r/knee_rot_r/speed
+y[26] = /jointset/knee_r/knee_tx_r/value
+y[27] = /jointset/knee_r/knee_tx_r/speed
+y[28] = /jointset/knee_r/knee_ty_r/value
+y[29] = /jointset/knee_r/knee_ty_r/speed
+y[30] = /jointset/knee_r/knee_tz_r/value
+y[31] = /jointset/knee_r/knee_tz_r/speed
+y[32] = /forceset/vas_med_r/activation
+y[33] = /forceset/vas_med_r/fiber_length
+y[34] = /forceset/vas_int_r/activation
+y[35] = /forceset/vas_int_r/fiber_length
+y[36] = /forceset/vas_lat_r/activation
+y[37] = /forceset/vas_lat_r/fiber_length
+y[38] = /forceset/aACL_muscle/activation
+y[39] = /forceset/aACL_muscle/fiber_length
+y[40] = /forceset/pACL_muscle/activation
+y[41] = /forceset/pACL_muscle/fiber_length
+y[42] = /forceset/aPCL_muscle/activation
+y[43] = /forceset/aPCL_muscle/fiber_length
+y[44] = /forceset/pPCL_muscle/activation
+y[45] = /forceset/pPCL_muscle/fiber_length
+y[46] = /forceset/LCL_muscle/activation
+y[47] = /forceset/LCL_muscle/fiber_length
+y[48] = /forceset/PFL_muscle/activation
+y[49] = /forceset/PFL_muscle/fiber_length
+y[50] = /forceset/CAPa_muscle/activation
+y[51] = /forceset/CAPa_muscle/fiber_length
+y[52] = /forceset/CAPl_muscle/activation
+y[53] = /forceset/CAPl_muscle/fiber_length
+y[54] = /forceset/CAPo_muscle/activation
+y[55] = /forceset/CAPo_muscle/fiber_length
+y[56] = /forceset/CAPm_muscle/activation
+y[57] = /forceset/CAPm_muscle/fiber_length
+y[58] = /forceset/aMCL_muscle/activation
+y[59] = /forceset/aMCL_muscle/fiber_length
+y[60] = /forceset/iMCL_muscle/activation
+y[61] = /forceset/iMCL_muscle/fiber_length
+y[62] = /forceset/pMCL_muscle/activation
+y[63] = /forceset/pMCL_muscle/fiber_length
+y[64] = /forceset/aCM_muscle/activation
+y[65] = /forceset/aCM_muscle/fiber_length
+y[66] = /forceset/pCM_muscle/activation
+y[67] = /forceset/pCM_muscle/fiber_length
+y[68] = /forceset/cPT_muscle/activation
+y[69] = /forceset/cPT_muscle/fiber_length
+y[70] = /forceset/mPT_muscle/activation
+y[71] = /forceset/mPT_muscle/fiber_length
+y[72] = /forceset/lPT_muscle/activation
+y[73] = /forceset/lPT_muscle/fiber_length
+
+[2024-03-03 10:33:18.950] [info] Integrating from 0.0 to 40.0.
+[2024-03-03 10:35:01.600] [info] PointKinematics.end: Finalizing analysis PointKinematics.
+[2024-03-03 10:35:01.600] [info] Printing results of investigation Runner18 to .
+[2024-03-03 10:35:03.213] [info] Forward simulation time = 104446. ms
+[2024-03-03 10:54:38.801] [warning] 
+    THIS EXECUTABLE IS DEPRECATED AND WILL BE REMOVED IN A FUTURE RELEASE.
+
+    Use opensim-cmd instead, which can do everything that this executable can.
+
+      forward -S SetupFileName -> opensim-cmd run-tool SetupFileName
+      forward -PS              -> opensim-cmd print-xml forward
+    
+[2024-03-03 10:54:38.801] [info] Loaded library osimActuators
+[2024-03-03 10:54:38.802] [info] Constructing tool from setup file ./Passive_Flexion/FD_Setup.xml
+[2024-03-03 10:54:38.802] [info] AbstractTool Runner18 loading model ../runner18_scaled_passiveFlex.osim
+[2024-03-03 10:54:38.808] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 10:54:38.827] [info] Loaded model Runner18 from file ../runner18_scaled_passiveFlex.osim
+[2024-03-03 10:54:38.836] [info] --------------------------------------------------------------
+[2024-03-03 10:54:38.836] [warning] Running tool Runner18...
+[2024-03-03 10:54:38.837] [info] No external loads will be applied (external loads file not specified).
+[2024-03-03 10:54:39.006] [cout] [info] MODEL: Runner18
+
+numStates = 75
+numCoordinates = 16
+numSpeeds = 16
+numActuators = 21
+numBodies = 4
+numConstraints = 0
+numProbes = 0
+
+ANALYSES (total: 2)
+analysis[0] = ForceReporter
+analysis[1] = PointKinematics
+
+BODIES (total: 4)
+body[0] = pelvis. mass: 12.1489
+              moments of inertia:  ~[0.134454,0.113919,0.0757283]
+              products of inertia: ~[0,0,0]
+body[1] = femur_r. mass: 9.59514
+              moments of inertia:  ~[0.177627,0.0465625,0.187311]
+              products of inertia: ~[0,0,0]
+body[2] = patella_r. mass: 0.4875
+              moments of inertia:  ~[1.6e-05,7.4e-05,7.4e-05]
+              products of inertia: ~[0,0,0]
+body[3] = tibia_r. mass: 3.82458
+              moments of inertia:  ~[0.0349592,0.00353754,0.0354447]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 4)
+joint[0] = ground_pelvis. parent: ground_offset, child: pelvis_offset
+joint[1] = hip_r. parent: pelvis_offset, child: femur_r_offset
+joint[2] = pf_r. parent: femur_r_offset, child: patella_r_offset
+joint[3] = knee_r. parent: femur_r_offset, child: tibia_r_offset
+
+ACTUATORS (total: 21)
+actuator[0] = vas_med_r
+actuator[1] = vas_int_r
+actuator[2] = vas_lat_r
+actuator[3] = aACL_muscle
+actuator[4] = pACL_muscle
+actuator[5] = aPCL_muscle
+actuator[6] = pPCL_muscle
+actuator[7] = LCL_muscle
+actuator[8] = PFL_muscle
+actuator[9] = CAPa_muscle
+actuator[10] = CAPl_muscle
+actuator[11] = CAPo_muscle
+actuator[12] = CAPm_muscle
+actuator[13] = aMCL_muscle
+actuator[14] = iMCL_muscle
+actuator[15] = pMCL_muscle
+actuator[16] = aCM_muscle
+actuator[17] = pCM_muscle
+actuator[18] = cPT_muscle
+actuator[19] = mPT_muscle
+actuator[20] = lPT_muscle
+
+STATES (total: 74)
+y[0] = /jointset/ground_pelvis/pelvis_tilt/value
+y[1] = /jointset/ground_pelvis/pelvis_tilt/speed
+y[2] = /jointset/ground_pelvis/pelvis_list/value
+y[3] = /jointset/ground_pelvis/pelvis_list/speed
+y[4] = /jointset/ground_pelvis/pelvis_rotation/value
+y[5] = /jointset/ground_pelvis/pelvis_rotation/speed
+y[6] = /jointset/ground_pelvis/pelvis_tx/value
+y[7] = /jointset/ground_pelvis/pelvis_tx/speed
+y[8] = /jointset/ground_pelvis/pelvis_ty/value
+y[9] = /jointset/ground_pelvis/pelvis_ty/speed
+y[10] = /jointset/ground_pelvis/pelvis_tz/value
+y[11] = /jointset/ground_pelvis/pelvis_tz/speed
+y[12] = /jointset/hip_r/hip_flexion_r/value
+y[13] = /jointset/hip_r/hip_flexion_r/speed
+y[14] = /jointset/hip_r/hip_adduction_r/value
+y[15] = /jointset/hip_r/hip_adduction_r/speed
+y[16] = /jointset/hip_r/hip_rotation_r/value
+y[17] = /jointset/hip_r/hip_rotation_r/speed
+y[18] = /jointset/pf_r/pf_ty_r/value
+y[19] = /jointset/pf_r/pf_ty_r/speed
+y[20] = /jointset/knee_r/knee_angle_r/value
+y[21] = /jointset/knee_r/knee_angle_r/speed
+y[22] = /jointset/knee_r/knee_add_r/value
+y[23] = /jointset/knee_r/knee_add_r/speed
+y[24] = /jointset/knee_r/knee_rot_r/value
+y[25] = /jointset/knee_r/knee_rot_r/speed
+y[26] = /jointset/knee_r/knee_tx_r/value
+y[27] = /jointset/knee_r/knee_tx_r/speed
+y[28] = /jointset/knee_r/knee_ty_r/value
+y[29] = /jointset/knee_r/knee_ty_r/speed
+y[30] = /jointset/knee_r/knee_tz_r/value
+y[31] = /jointset/knee_r/knee_tz_r/speed
+y[32] = /forceset/vas_med_r/activation
+y[33] = /forceset/vas_med_r/fiber_length
+y[34] = /forceset/vas_int_r/activation
+y[35] = /forceset/vas_int_r/fiber_length
+y[36] = /forceset/vas_lat_r/activation
+y[37] = /forceset/vas_lat_r/fiber_length
+y[38] = /forceset/aACL_muscle/activation
+y[39] = /forceset/aACL_muscle/fiber_length
+y[40] = /forceset/pACL_muscle/activation
+y[41] = /forceset/pACL_muscle/fiber_length
+y[42] = /forceset/aPCL_muscle/activation
+y[43] = /forceset/aPCL_muscle/fiber_length
+y[44] = /forceset/pPCL_muscle/activation
+y[45] = /forceset/pPCL_muscle/fiber_length
+y[46] = /forceset/LCL_muscle/activation
+y[47] = /forceset/LCL_muscle/fiber_length
+y[48] = /forceset/PFL_muscle/activation
+y[49] = /forceset/PFL_muscle/fiber_length
+y[50] = /forceset/CAPa_muscle/activation
+y[51] = /forceset/CAPa_muscle/fiber_length
+y[52] = /forceset/CAPl_muscle/activation
+y[53] = /forceset/CAPl_muscle/fiber_length
+y[54] = /forceset/CAPo_muscle/activation
+y[55] = /forceset/CAPo_muscle/fiber_length
+y[56] = /forceset/CAPm_muscle/activation
+y[57] = /forceset/CAPm_muscle/fiber_length
+y[58] = /forceset/aMCL_muscle/activation
+y[59] = /forceset/aMCL_muscle/fiber_length
+y[60] = /forceset/iMCL_muscle/activation
+y[61] = /forceset/iMCL_muscle/fiber_length
+y[62] = /forceset/pMCL_muscle/activation
+y[63] = /forceset/pMCL_muscle/fiber_length
+y[64] = /forceset/aCM_muscle/activation
+y[65] = /forceset/aCM_muscle/fiber_length
+y[66] = /forceset/pCM_muscle/activation
+y[67] = /forceset/pCM_muscle/fiber_length
+y[68] = /forceset/cPT_muscle/activation
+y[69] = /forceset/cPT_muscle/fiber_length
+y[70] = /forceset/mPT_muscle/activation
+y[71] = /forceset/mPT_muscle/fiber_length
+y[72] = /forceset/lPT_muscle/activation
+y[73] = /forceset/lPT_muscle/fiber_length
+
+[2024-03-03 10:54:39.007] [info] Integrating from 0.0 to 40.0.
+[2024-03-03 10:55:52.775] [warning] Running tool Runner18...
+[2024-03-03 10:55:52.776] [info] No external loads will be applied (external loads file not specified).
+[2024-03-03 10:55:52.932] [cout] [info] MODEL: Runner18
+
+numStates = 75
+numCoordinates = 16
+numSpeeds = 16
+numActuators = 21
+numBodies = 4
+numConstraints = 0
+numProbes = 0
+
+ANALYSES (total: 4)
+analysis[0] = ForceReporter
+analysis[1] = PointKinematics
+analysis[2] = Un-named analysis.
+analysis[3] = Un-named analysis.
+
+BODIES (total: 4)
+body[0] = pelvis. mass: 12.1489
+              moments of inertia:  ~[0.134454,0.113919,0.0757283]
+              products of inertia: ~[0,0,0]
+body[1] = femur_r. mass: 9.59514
+              moments of inertia:  ~[0.177627,0.0465625,0.187311]
+              products of inertia: ~[0,0,0]
+body[2] = patella_r. mass: 0.4875
+              moments of inertia:  ~[1.6e-05,7.4e-05,7.4e-05]
+              products of inertia: ~[0,0,0]
+body[3] = tibia_r. mass: 3.82458
+              moments of inertia:  ~[0.0349592,0.00353754,0.0354447]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 4)
+joint[0] = ground_pelvis. parent: ground_offset, child: pelvis_offset
+joint[1] = hip_r. parent: pelvis_offset, child: femur_r_offset
+joint[2] = pf_r. parent: femur_r_offset, child: patella_r_offset
+joint[3] = knee_r. parent: femur_r_offset, child: tibia_r_offset
+
+ACTUATORS (total: 21)
+actuator[0] = vas_med_r
+actuator[1] = vas_int_r
+actuator[2] = vas_lat_r
+actuator[3] = aACL_muscle
+actuator[4] = pACL_muscle
+actuator[5] = aPCL_muscle
+actuator[6] = pPCL_muscle
+actuator[7] = LCL_muscle
+actuator[8] = PFL_muscle
+actuator[9] = CAPa_muscle
+actuator[10] = CAPl_muscle
+actuator[11] = CAPo_muscle
+actuator[12] = CAPm_muscle
+actuator[13] = aMCL_muscle
+actuator[14] = iMCL_muscle
+actuator[15] = pMCL_muscle
+actuator[16] = aCM_muscle
+actuator[17] = pCM_muscle
+actuator[18] = cPT_muscle
+actuator[19] = mPT_muscle
+actuator[20] = lPT_muscle
+
+STATES (total: 74)
+y[0] = /jointset/ground_pelvis/pelvis_tilt/value
+y[1] = /jointset/ground_pelvis/pelvis_tilt/speed
+y[2] = /jointset/ground_pelvis/pelvis_list/value
+y[3] = /jointset/ground_pelvis/pelvis_list/speed
+y[4] = /jointset/ground_pelvis/pelvis_rotation/value
+y[5] = /jointset/ground_pelvis/pelvis_rotation/speed
+y[6] = /jointset/ground_pelvis/pelvis_tx/value
+y[7] = /jointset/ground_pelvis/pelvis_tx/speed
+y[8] = /jointset/ground_pelvis/pelvis_ty/value
+y[9] = /jointset/ground_pelvis/pelvis_ty/speed
+y[10] = /jointset/ground_pelvis/pelvis_tz/value
+y[11] = /jointset/ground_pelvis/pelvis_tz/speed
+y[12] = /jointset/hip_r/hip_flexion_r/value
+y[13] = /jointset/hip_r/hip_flexion_r/speed
+y[14] = /jointset/hip_r/hip_adduction_r/value
+y[15] = /jointset/hip_r/hip_adduction_r/speed
+y[16] = /jointset/hip_r/hip_rotation_r/value
+y[17] = /jointset/hip_r/hip_rotation_r/speed
+y[18] = /jointset/pf_r/pf_ty_r/value
+y[19] = /jointset/pf_r/pf_ty_r/speed
+y[20] = /jointset/knee_r/knee_angle_r/value
+y[21] = /jointset/knee_r/knee_angle_r/speed
+y[22] = /jointset/knee_r/knee_add_r/value
+y[23] = /jointset/knee_r/knee_add_r/speed
+y[24] = /jointset/knee_r/knee_rot_r/value
+y[25] = /jointset/knee_r/knee_rot_r/speed
+y[26] = /jointset/knee_r/knee_tx_r/value
+y[27] = /jointset/knee_r/knee_tx_r/speed
+y[28] = /jointset/knee_r/knee_ty_r/value
+y[29] = /jointset/knee_r/knee_ty_r/speed
+y[30] = /jointset/knee_r/knee_tz_r/value
+y[31] = /jointset/knee_r/knee_tz_r/speed
+y[32] = /forceset/vas_med_r/activation
+y[33] = /forceset/vas_med_r/fiber_length
+y[34] = /forceset/vas_int_r/activation
+y[35] = /forceset/vas_int_r/fiber_length
+y[36] = /forceset/vas_lat_r/activation
+y[37] = /forceset/vas_lat_r/fiber_length
+y[38] = /forceset/aACL_muscle/activation
+y[39] = /forceset/aACL_muscle/fiber_length
+y[40] = /forceset/pACL_muscle/activation
+y[41] = /forceset/pACL_muscle/fiber_length
+y[42] = /forceset/aPCL_muscle/activation
+y[43] = /forceset/aPCL_muscle/fiber_length
+y[44] = /forceset/pPCL_muscle/activation
+y[45] = /forceset/pPCL_muscle/fiber_length
+y[46] = /forceset/LCL_muscle/activation
+y[47] = /forceset/LCL_muscle/fiber_length
+y[48] = /forceset/PFL_muscle/activation
+y[49] = /forceset/PFL_muscle/fiber_length
+y[50] = /forceset/CAPa_muscle/activation
+y[51] = /forceset/CAPa_muscle/fiber_length
+y[52] = /forceset/CAPl_muscle/activation
+y[53] = /forceset/CAPl_muscle/fiber_length
+y[54] = /forceset/CAPo_muscle/activation
+y[55] = /forceset/CAPo_muscle/fiber_length
+y[56] = /forceset/CAPm_muscle/activation
+y[57] = /forceset/CAPm_muscle/fiber_length
+y[58] = /forceset/aMCL_muscle/activation
+y[59] = /forceset/aMCL_muscle/fiber_length
+y[60] = /forceset/iMCL_muscle/activation
+y[61] = /forceset/iMCL_muscle/fiber_length
+y[62] = /forceset/pMCL_muscle/activation
+y[63] = /forceset/pMCL_muscle/fiber_length
+y[64] = /forceset/aCM_muscle/activation
+y[65] = /forceset/aCM_muscle/fiber_length
+y[66] = /forceset/pCM_muscle/activation
+y[67] = /forceset/pCM_muscle/fiber_length
+y[68] = /forceset/cPT_muscle/activation
+y[69] = /forceset/cPT_muscle/fiber_length
+y[70] = /forceset/mPT_muscle/activation
+y[71] = /forceset/mPT_muscle/fiber_length
+y[72] = /forceset/lPT_muscle/activation
+y[73] = /forceset/lPT_muscle/fiber_length
+
+[2024-03-03 10:55:52.932] [info] Integrating from 0.0 to 40.0.
+[2024-03-03 10:55:53.049] [warning] Coordinate.setValue:  coordinate pelvis_tilt is locked. Unable to change its value.
+[2024-03-03 10:55:53.049] [warning] Coordinate.setValue:  coordinate pelvis_list is locked. Unable to change its value.
+[2024-03-03 10:55:53.049] [warning] Coordinate.setValue:  coordinate pelvis_rotation is locked. Unable to change its value.
+[2024-03-03 10:55:53.049] [warning] Coordinate.setValue:  coordinate pelvis_tx is locked. Unable to change its value.
+[2024-03-03 10:55:53.049] [warning] Coordinate.setValue:  coordinate pelvis_ty is locked. Unable to change its value.
+[2024-03-03 10:55:53.049] [warning] Coordinate.setValue:  coordinate pelvis_tz is locked. Unable to change its value.
+[2024-03-03 10:55:53.049] [warning] Coordinate.setValue:  coordinate hip_flexion_r is locked. Unable to change its value.
+[2024-03-03 10:55:53.049] [warning] Coordinate.setValue:  coordinate hip_adduction_r is locked. Unable to change its value.
+[2024-03-03 10:55:53.049] [warning] Coordinate.setValue:  coordinate hip_rotation_r is locked. Unable to change its value.
+[2024-03-03 10:57:47.837] [info] PointKinematics.end: Finalizing analysis PointKinematics.
+[2024-03-03 10:57:47.838] [info] Printing results of investigation Runner18 to C:\Users\noah-\Desktop\Knee_Model_V2\Passive_Flexion\.
+[2024-03-03 11:00:09.329] [warning] Running tool Runner18...
+[2024-03-03 11:00:09.329] [info] No external loads will be applied (external loads file not specified).
+[2024-03-03 11:00:09.486] [cout] [info] MODEL: Runner18
+
+numStates = 75
+numCoordinates = 16
+numSpeeds = 16
+numActuators = 21
+numBodies = 4
+numConstraints = 0
+numProbes = 0
+
+ANALYSES (total: 4)
+analysis[0] = ForceReporter
+analysis[1] = PointKinematics
+analysis[2] = Un-named analysis.
+analysis[3] = Un-named analysis.
+
+BODIES (total: 4)
+body[0] = pelvis. mass: 12.1489
+              moments of inertia:  ~[0.134454,0.113919,0.0757283]
+              products of inertia: ~[0,0,0]
+body[1] = femur_r. mass: 9.59514
+              moments of inertia:  ~[0.177627,0.0465625,0.187311]
+              products of inertia: ~[0,0,0]
+body[2] = patella_r. mass: 0.4875
+              moments of inertia:  ~[1.6e-05,7.4e-05,7.4e-05]
+              products of inertia: ~[0,0,0]
+body[3] = tibia_r. mass: 3.82458
+              moments of inertia:  ~[0.0349592,0.00353754,0.0354447]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 4)
+joint[0] = ground_pelvis. parent: ground_offset, child: pelvis_offset
+joint[1] = hip_r. parent: pelvis_offset, child: femur_r_offset
+joint[2] = pf_r. parent: femur_r_offset, child: patella_r_offset
+joint[3] = knee_r. parent: femur_r_offset, child: tibia_r_offset
+
+ACTUATORS (total: 21)
+actuator[0] = vas_med_r
+actuator[1] = vas_int_r
+actuator[2] = vas_lat_r
+actuator[3] = aACL_muscle
+actuator[4] = pACL_muscle
+actuator[5] = aPCL_muscle
+actuator[6] = pPCL_muscle
+actuator[7] = LCL_muscle
+actuator[8] = PFL_muscle
+actuator[9] = CAPa_muscle
+actuator[10] = CAPl_muscle
+actuator[11] = CAPo_muscle
+actuator[12] = CAPm_muscle
+actuator[13] = aMCL_muscle
+actuator[14] = iMCL_muscle
+actuator[15] = pMCL_muscle
+actuator[16] = aCM_muscle
+actuator[17] = pCM_muscle
+actuator[18] = cPT_muscle
+actuator[19] = mPT_muscle
+actuator[20] = lPT_muscle
+
+STATES (total: 74)
+y[0] = /jointset/ground_pelvis/pelvis_tilt/value
+y[1] = /jointset/ground_pelvis/pelvis_tilt/speed
+y[2] = /jointset/ground_pelvis/pelvis_list/value
+y[3] = /jointset/ground_pelvis/pelvis_list/speed
+y[4] = /jointset/ground_pelvis/pelvis_rotation/value
+y[5] = /jointset/ground_pelvis/pelvis_rotation/speed
+y[6] = /jointset/ground_pelvis/pelvis_tx/value
+y[7] = /jointset/ground_pelvis/pelvis_tx/speed
+y[8] = /jointset/ground_pelvis/pelvis_ty/value
+y[9] = /jointset/ground_pelvis/pelvis_ty/speed
+y[10] = /jointset/ground_pelvis/pelvis_tz/value
+y[11] = /jointset/ground_pelvis/pelvis_tz/speed
+y[12] = /jointset/hip_r/hip_flexion_r/value
+y[13] = /jointset/hip_r/hip_flexion_r/speed
+y[14] = /jointset/hip_r/hip_adduction_r/value
+y[15] = /jointset/hip_r/hip_adduction_r/speed
+y[16] = /jointset/hip_r/hip_rotation_r/value
+y[17] = /jointset/hip_r/hip_rotation_r/speed
+y[18] = /jointset/pf_r/pf_ty_r/value
+y[19] = /jointset/pf_r/pf_ty_r/speed
+y[20] = /jointset/knee_r/knee_angle_r/value
+y[21] = /jointset/knee_r/knee_angle_r/speed
+y[22] = /jointset/knee_r/knee_add_r/value
+y[23] = /jointset/knee_r/knee_add_r/speed
+y[24] = /jointset/knee_r/knee_rot_r/value
+y[25] = /jointset/knee_r/knee_rot_r/speed
+y[26] = /jointset/knee_r/knee_tx_r/value
+y[27] = /jointset/knee_r/knee_tx_r/speed
+y[28] = /jointset/knee_r/knee_ty_r/value
+y[29] = /jointset/knee_r/knee_ty_r/speed
+y[30] = /jointset/knee_r/knee_tz_r/value
+y[31] = /jointset/knee_r/knee_tz_r/speed
+y[32] = /forceset/vas_med_r/activation
+y[33] = /forceset/vas_med_r/fiber_length
+y[34] = /forceset/vas_int_r/activation
+y[35] = /forceset/vas_int_r/fiber_length
+y[36] = /forceset/vas_lat_r/activation
+y[37] = /forceset/vas_lat_r/fiber_length
+y[38] = /forceset/aACL_muscle/activation
+y[39] = /forceset/aACL_muscle/fiber_length
+y[40] = /forceset/pACL_muscle/activation
+y[41] = /forceset/pACL_muscle/fiber_length
+y[42] = /forceset/aPCL_muscle/activation
+y[43] = /forceset/aPCL_muscle/fiber_length
+y[44] = /forceset/pPCL_muscle/activation
+y[45] = /forceset/pPCL_muscle/fiber_length
+y[46] = /forceset/LCL_muscle/activation
+y[47] = /forceset/LCL_muscle/fiber_length
+y[48] = /forceset/PFL_muscle/activation
+y[49] = /forceset/PFL_muscle/fiber_length
+y[50] = /forceset/CAPa_muscle/activation
+y[51] = /forceset/CAPa_muscle/fiber_length
+y[52] = /forceset/CAPl_muscle/activation
+y[53] = /forceset/CAPl_muscle/fiber_length
+y[54] = /forceset/CAPo_muscle/activation
+y[55] = /forceset/CAPo_muscle/fiber_length
+y[56] = /forceset/CAPm_muscle/activation
+y[57] = /forceset/CAPm_muscle/fiber_length
+y[58] = /forceset/aMCL_muscle/activation
+y[59] = /forceset/aMCL_muscle/fiber_length
+y[60] = /forceset/iMCL_muscle/activation
+y[61] = /forceset/iMCL_muscle/fiber_length
+y[62] = /forceset/pMCL_muscle/activation
+y[63] = /forceset/pMCL_muscle/fiber_length
+y[64] = /forceset/aCM_muscle/activation
+y[65] = /forceset/aCM_muscle/fiber_length
+y[66] = /forceset/pCM_muscle/activation
+y[67] = /forceset/pCM_muscle/fiber_length
+y[68] = /forceset/cPT_muscle/activation
+y[69] = /forceset/cPT_muscle/fiber_length
+y[70] = /forceset/mPT_muscle/activation
+y[71] = /forceset/mPT_muscle/fiber_length
+y[72] = /forceset/lPT_muscle/activation
+y[73] = /forceset/lPT_muscle/fiber_length
+
+[2024-03-03 11:00:09.486] [info] Integrating from 0.0 to 40.0.
+[2024-03-03 11:01:32.759] [error] ForwardTool::run() caught an exception: 
+ Operation Aborted
+[2024-03-03 11:01:32.760] [info] Printing results of investigation Runner18 to C:\Users\noah-\Desktop\Knee_Model_V2\Passive_Flexion\.
+[2024-03-03 11:04:27.853] [warning] 
+    THIS EXECUTABLE IS DEPRECATED AND WILL BE REMOVED IN A FUTURE RELEASE.
+
+    Use opensim-cmd instead, which can do everything that this executable can.
+
+      forward -S SetupFileName -> opensim-cmd run-tool SetupFileName
+      forward -PS              -> opensim-cmd print-xml forward
+    
+[2024-03-03 11:04:27.853] [info] Loaded library osimActuators
+[2024-03-03 11:04:27.853] [info] Constructing tool from setup file ./Passive_Flexion/FD_Setup.xml
+[2024-03-03 11:04:27.854] [info] AbstractTool Runner18 loading model ../runner18_scaled_passiveFlex.osim
+[2024-03-03 11:04:27.860] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:04:27.886] [info] Loaded model Runner18 from file ../runner18_scaled_passiveFlex.osim
+[2024-03-03 11:04:27.890] [info] --------------------------------------------------------------
+[2024-03-03 11:04:27.891] [warning] Running tool Runner18...
+[2024-03-03 11:04:27.891] [info] No external loads will be applied (external loads file not specified).
+[2024-03-03 11:04:28.070] [cout] [info] MODEL: Runner18
+
+numStates = 75
+numCoordinates = 16
+numSpeeds = 16
+numActuators = 21
+numBodies = 4
+numConstraints = 0
+numProbes = 0
+
+ANALYSES (total: 2)
+analysis[0] = ForceReporter
+analysis[1] = PointKinematics
+
+BODIES (total: 4)
+body[0] = pelvis. mass: 12.1489
+              moments of inertia:  ~[0.134454,0.113919,0.0757283]
+              products of inertia: ~[0,0,0]
+body[1] = femur_r. mass: 9.59514
+              moments of inertia:  ~[0.177627,0.0465625,0.187311]
+              products of inertia: ~[0,0,0]
+body[2] = patella_r. mass: 0.4875
+              moments of inertia:  ~[1.6e-05,7.4e-05,7.4e-05]
+              products of inertia: ~[0,0,0]
+body[3] = tibia_r. mass: 3.82458
+              moments of inertia:  ~[0.0349592,0.00353754,0.0354447]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 4)
+joint[0] = ground_pelvis. parent: ground_offset, child: pelvis_offset
+joint[1] = hip_r. parent: pelvis_offset, child: femur_r_offset
+joint[2] = pf_r. parent: femur_r_offset, child: patella_r_offset
+joint[3] = knee_r. parent: femur_r_offset, child: tibia_r_offset
+
+ACTUATORS (total: 21)
+actuator[0] = vas_med_r
+actuator[1] = vas_int_r
+actuator[2] = vas_lat_r
+actuator[3] = aACL_muscle
+actuator[4] = pACL_muscle
+actuator[5] = aPCL_muscle
+actuator[6] = pPCL_muscle
+actuator[7] = LCL_muscle
+actuator[8] = PFL_muscle
+actuator[9] = CAPa_muscle
+actuator[10] = CAPl_muscle
+actuator[11] = CAPo_muscle
+actuator[12] = CAPm_muscle
+actuator[13] = aMCL_muscle
+actuator[14] = iMCL_muscle
+actuator[15] = pMCL_muscle
+actuator[16] = aCM_muscle
+actuator[17] = pCM_muscle
+actuator[18] = cPT_muscle
+actuator[19] = mPT_muscle
+actuator[20] = lPT_muscle
+
+STATES (total: 74)
+y[0] = /jointset/ground_pelvis/pelvis_tilt/value
+y[1] = /jointset/ground_pelvis/pelvis_tilt/speed
+y[2] = /jointset/ground_pelvis/pelvis_list/value
+y[3] = /jointset/ground_pelvis/pelvis_list/speed
+y[4] = /jointset/ground_pelvis/pelvis_rotation/value
+y[5] = /jointset/ground_pelvis/pelvis_rotation/speed
+y[6] = /jointset/ground_pelvis/pelvis_tx/value
+y[7] = /jointset/ground_pelvis/pelvis_tx/speed
+y[8] = /jointset/ground_pelvis/pelvis_ty/value
+y[9] = /jointset/ground_pelvis/pelvis_ty/speed
+y[10] = /jointset/ground_pelvis/pelvis_tz/value
+y[11] = /jointset/ground_pelvis/pelvis_tz/speed
+y[12] = /jointset/hip_r/hip_flexion_r/value
+y[13] = /jointset/hip_r/hip_flexion_r/speed
+y[14] = /jointset/hip_r/hip_adduction_r/value
+y[15] = /jointset/hip_r/hip_adduction_r/speed
+y[16] = /jointset/hip_r/hip_rotation_r/value
+y[17] = /jointset/hip_r/hip_rotation_r/speed
+y[18] = /jointset/pf_r/pf_ty_r/value
+y[19] = /jointset/pf_r/pf_ty_r/speed
+y[20] = /jointset/knee_r/knee_angle_r/value
+y[21] = /jointset/knee_r/knee_angle_r/speed
+y[22] = /jointset/knee_r/knee_add_r/value
+y[23] = /jointset/knee_r/knee_add_r/speed
+y[24] = /jointset/knee_r/knee_rot_r/value
+y[25] = /jointset/knee_r/knee_rot_r/speed
+y[26] = /jointset/knee_r/knee_tx_r/value
+y[27] = /jointset/knee_r/knee_tx_r/speed
+y[28] = /jointset/knee_r/knee_ty_r/value
+y[29] = /jointset/knee_r/knee_ty_r/speed
+y[30] = /jointset/knee_r/knee_tz_r/value
+y[31] = /jointset/knee_r/knee_tz_r/speed
+y[32] = /forceset/vas_med_r/activation
+y[33] = /forceset/vas_med_r/fiber_length
+y[34] = /forceset/vas_int_r/activation
+y[35] = /forceset/vas_int_r/fiber_length
+y[36] = /forceset/vas_lat_r/activation
+y[37] = /forceset/vas_lat_r/fiber_length
+y[38] = /forceset/aACL_muscle/activation
+y[39] = /forceset/aACL_muscle/fiber_length
+y[40] = /forceset/pACL_muscle/activation
+y[41] = /forceset/pACL_muscle/fiber_length
+y[42] = /forceset/aPCL_muscle/activation
+y[43] = /forceset/aPCL_muscle/fiber_length
+y[44] = /forceset/pPCL_muscle/activation
+y[45] = /forceset/pPCL_muscle/fiber_length
+y[46] = /forceset/LCL_muscle/activation
+y[47] = /forceset/LCL_muscle/fiber_length
+y[48] = /forceset/PFL_muscle/activation
+y[49] = /forceset/PFL_muscle/fiber_length
+y[50] = /forceset/CAPa_muscle/activation
+y[51] = /forceset/CAPa_muscle/fiber_length
+y[52] = /forceset/CAPl_muscle/activation
+y[53] = /forceset/CAPl_muscle/fiber_length
+y[54] = /forceset/CAPo_muscle/activation
+y[55] = /forceset/CAPo_muscle/fiber_length
+y[56] = /forceset/CAPm_muscle/activation
+y[57] = /forceset/CAPm_muscle/fiber_length
+y[58] = /forceset/aMCL_muscle/activation
+y[59] = /forceset/aMCL_muscle/fiber_length
+y[60] = /forceset/iMCL_muscle/activation
+y[61] = /forceset/iMCL_muscle/fiber_length
+y[62] = /forceset/pMCL_muscle/activation
+y[63] = /forceset/pMCL_muscle/fiber_length
+y[64] = /forceset/aCM_muscle/activation
+y[65] = /forceset/aCM_muscle/fiber_length
+y[66] = /forceset/pCM_muscle/activation
+y[67] = /forceset/pCM_muscle/fiber_length
+y[68] = /forceset/cPT_muscle/activation
+y[69] = /forceset/cPT_muscle/fiber_length
+y[70] = /forceset/mPT_muscle/activation
+y[71] = /forceset/mPT_muscle/fiber_length
+y[72] = /forceset/lPT_muscle/activation
+y[73] = /forceset/lPT_muscle/fiber_length
+
+[2024-03-03 11:04:28.070] [info] Integrating from 0.0 to 40.0.
+[2024-03-03 11:16:20.742] [warning] Running tool Runner18...
+[2024-03-03 11:16:20.743] [info] No external loads will be applied (external loads file not specified).
+[2024-03-03 11:16:20.902] [cout] [info] MODEL: Runner18
+
+numStates = 75
+numCoordinates = 16
+numSpeeds = 16
+numActuators = 21
+numBodies = 4
+numConstraints = 0
+numProbes = 0
+
+ANALYSES (total: 4)
+analysis[0] = ForceReporter
+analysis[1] = PointKinematics
+analysis[2] = Un-named analysis.
+analysis[3] = Un-named analysis.
+
+BODIES (total: 4)
+body[0] = pelvis. mass: 12.1489
+              moments of inertia:  ~[0.134454,0.113919,0.0757283]
+              products of inertia: ~[0,0,0]
+body[1] = femur_r. mass: 9.59514
+              moments of inertia:  ~[0.177627,0.0465625,0.187311]
+              products of inertia: ~[0,0,0]
+body[2] = patella_r. mass: 0.4875
+              moments of inertia:  ~[1.6e-05,7.4e-05,7.4e-05]
+              products of inertia: ~[0,0,0]
+body[3] = tibia_r. mass: 3.82458
+              moments of inertia:  ~[0.0349592,0.00353754,0.0354447]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 4)
+joint[0] = ground_pelvis. parent: ground_offset, child: pelvis_offset
+joint[1] = hip_r. parent: pelvis_offset, child: femur_r_offset
+joint[2] = pf_r. parent: femur_r_offset, child: patella_r_offset
+joint[3] = knee_r. parent: femur_r_offset, child: tibia_r_offset
+
+ACTUATORS (total: 21)
+actuator[0] = vas_med_r
+actuator[1] = vas_int_r
+actuator[2] = vas_lat_r
+actuator[3] = aACL_muscle
+actuator[4] = pACL_muscle
+actuator[5] = aPCL_muscle
+actuator[6] = pPCL_muscle
+actuator[7] = LCL_muscle
+actuator[8] = PFL_muscle
+actuator[9] = CAPa_muscle
+actuator[10] = CAPl_muscle
+actuator[11] = CAPo_muscle
+actuator[12] = CAPm_muscle
+actuator[13] = aMCL_muscle
+actuator[14] = iMCL_muscle
+actuator[15] = pMCL_muscle
+actuator[16] = aCM_muscle
+actuator[17] = pCM_muscle
+actuator[18] = cPT_muscle
+actuator[19] = mPT_muscle
+actuator[20] = lPT_muscle
+
+STATES (total: 74)
+y[0] = /jointset/ground_pelvis/pelvis_tilt/value
+y[1] = /jointset/ground_pelvis/pelvis_tilt/speed
+y[2] = /jointset/ground_pelvis/pelvis_list/value
+y[3] = /jointset/ground_pelvis/pelvis_list/speed
+y[4] = /jointset/ground_pelvis/pelvis_rotation/value
+y[5] = /jointset/ground_pelvis/pelvis_rotation/speed
+y[6] = /jointset/ground_pelvis/pelvis_tx/value
+y[7] = /jointset/ground_pelvis/pelvis_tx/speed
+y[8] = /jointset/ground_pelvis/pelvis_ty/value
+y[9] = /jointset/ground_pelvis/pelvis_ty/speed
+y[10] = /jointset/ground_pelvis/pelvis_tz/value
+y[11] = /jointset/ground_pelvis/pelvis_tz/speed
+y[12] = /jointset/hip_r/hip_flexion_r/value
+y[13] = /jointset/hip_r/hip_flexion_r/speed
+y[14] = /jointset/hip_r/hip_adduction_r/value
+y[15] = /jointset/hip_r/hip_adduction_r/speed
+y[16] = /jointset/hip_r/hip_rotation_r/value
+y[17] = /jointset/hip_r/hip_rotation_r/speed
+y[18] = /jointset/pf_r/pf_ty_r/value
+y[19] = /jointset/pf_r/pf_ty_r/speed
+y[20] = /jointset/knee_r/knee_angle_r/value
+y[21] = /jointset/knee_r/knee_angle_r/speed
+y[22] = /jointset/knee_r/knee_add_r/value
+y[23] = /jointset/knee_r/knee_add_r/speed
+y[24] = /jointset/knee_r/knee_rot_r/value
+y[25] = /jointset/knee_r/knee_rot_r/speed
+y[26] = /jointset/knee_r/knee_tx_r/value
+y[27] = /jointset/knee_r/knee_tx_r/speed
+y[28] = /jointset/knee_r/knee_ty_r/value
+y[29] = /jointset/knee_r/knee_ty_r/speed
+y[30] = /jointset/knee_r/knee_tz_r/value
+y[31] = /jointset/knee_r/knee_tz_r/speed
+y[32] = /forceset/vas_med_r/activation
+y[33] = /forceset/vas_med_r/fiber_length
+y[34] = /forceset/vas_int_r/activation
+y[35] = /forceset/vas_int_r/fiber_length
+y[36] = /forceset/vas_lat_r/activation
+y[37] = /forceset/vas_lat_r/fiber_length
+y[38] = /forceset/aACL_muscle/activation
+y[39] = /forceset/aACL_muscle/fiber_length
+y[40] = /forceset/pACL_muscle/activation
+y[41] = /forceset/pACL_muscle/fiber_length
+y[42] = /forceset/aPCL_muscle/activation
+y[43] = /forceset/aPCL_muscle/fiber_length
+y[44] = /forceset/pPCL_muscle/activation
+y[45] = /forceset/pPCL_muscle/fiber_length
+y[46] = /forceset/LCL_muscle/activation
+y[47] = /forceset/LCL_muscle/fiber_length
+y[48] = /forceset/PFL_muscle/activation
+y[49] = /forceset/PFL_muscle/fiber_length
+y[50] = /forceset/CAPa_muscle/activation
+y[51] = /forceset/CAPa_muscle/fiber_length
+y[52] = /forceset/CAPl_muscle/activation
+y[53] = /forceset/CAPl_muscle/fiber_length
+y[54] = /forceset/CAPo_muscle/activation
+y[55] = /forceset/CAPo_muscle/fiber_length
+y[56] = /forceset/CAPm_muscle/activation
+y[57] = /forceset/CAPm_muscle/fiber_length
+y[58] = /forceset/aMCL_muscle/activation
+y[59] = /forceset/aMCL_muscle/fiber_length
+y[60] = /forceset/iMCL_muscle/activation
+y[61] = /forceset/iMCL_muscle/fiber_length
+y[62] = /forceset/pMCL_muscle/activation
+y[63] = /forceset/pMCL_muscle/fiber_length
+y[64] = /forceset/aCM_muscle/activation
+y[65] = /forceset/aCM_muscle/fiber_length
+y[66] = /forceset/pCM_muscle/activation
+y[67] = /forceset/pCM_muscle/fiber_length
+y[68] = /forceset/cPT_muscle/activation
+y[69] = /forceset/cPT_muscle/fiber_length
+y[70] = /forceset/mPT_muscle/activation
+y[71] = /forceset/mPT_muscle/fiber_length
+y[72] = /forceset/lPT_muscle/activation
+y[73] = /forceset/lPT_muscle/fiber_length
+
+[2024-03-03 11:16:20.902] [info] Integrating from 0.0 to 40.0.
+[2024-03-03 11:18:08.524] [info] PointKinematics.end: Finalizing analysis PointKinematics.
+[2024-03-03 11:18:08.524] [info] Printing results of investigation Runner18 to C:\Users\noah-\Desktop\Knee_Model_V2\Passive_Flexion\.
+[2024-03-03 11:23:15.892] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:23:15.904] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled.osim
+[2024-03-03 11:23:36.071] [warning] Running tool Runner18...
+[2024-03-03 11:23:36.071] [info] No external loads will be applied (external loads file not specified).
+[2024-03-03 11:23:36.225] [cout] [info] MODEL: Runner18
+
+numStates = 75
+numCoordinates = 16
+numSpeeds = 16
+numActuators = 21
+numBodies = 4
+numConstraints = 0
+numProbes = 0
+
+ANALYSES (total: 4)
+analysis[0] = ForceReporter
+analysis[1] = PointKinematics
+analysis[2] = Un-named analysis.
+analysis[3] = Un-named analysis.
+
+BODIES (total: 4)
+body[0] = pelvis. mass: 12.1489
+              moments of inertia:  ~[0.134454,0.113919,0.0757283]
+              products of inertia: ~[0,0,0]
+body[1] = femur_r. mass: 9.59514
+              moments of inertia:  ~[0.177627,0.0465625,0.187311]
+              products of inertia: ~[0,0,0]
+body[2] = patella_r. mass: 0.4875
+              moments of inertia:  ~[1.6e-05,7.4e-05,7.4e-05]
+              products of inertia: ~[0,0,0]
+body[3] = tibia_r. mass: 3.82458
+              moments of inertia:  ~[0.0349592,0.00353754,0.0354447]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 4)
+joint[0] = ground_pelvis. parent: ground_offset, child: pelvis_offset
+joint[1] = hip_r. parent: pelvis_offset, child: femur_r_offset
+joint[2] = pf_r. parent: femur_r_offset, child: patella_r_offset
+joint[3] = knee_r. parent: femur_r_offset, child: tibia_r_offset
+
+ACTUATORS (total: 21)
+actuator[0] = vas_med_r
+actuator[1] = vas_int_r
+actuator[2] = vas_lat_r
+actuator[3] = aACL_muscle
+actuator[4] = pACL_muscle
+actuator[5] = aPCL_muscle
+actuator[6] = pPCL_muscle
+actuator[7] = LCL_muscle
+actuator[8] = PFL_muscle
+actuator[9] = CAPa_muscle
+actuator[10] = CAPl_muscle
+actuator[11] = CAPo_muscle
+actuator[12] = CAPm_muscle
+actuator[13] = aMCL_muscle
+actuator[14] = iMCL_muscle
+actuator[15] = pMCL_muscle
+actuator[16] = aCM_muscle
+actuator[17] = pCM_muscle
+actuator[18] = cPT_muscle
+actuator[19] = mPT_muscle
+actuator[20] = lPT_muscle
+
+STATES (total: 74)
+y[0] = /jointset/ground_pelvis/pelvis_tilt/value
+y[1] = /jointset/ground_pelvis/pelvis_tilt/speed
+y[2] = /jointset/ground_pelvis/pelvis_list/value
+y[3] = /jointset/ground_pelvis/pelvis_list/speed
+y[4] = /jointset/ground_pelvis/pelvis_rotation/value
+y[5] = /jointset/ground_pelvis/pelvis_rotation/speed
+y[6] = /jointset/ground_pelvis/pelvis_tx/value
+y[7] = /jointset/ground_pelvis/pelvis_tx/speed
+y[8] = /jointset/ground_pelvis/pelvis_ty/value
+y[9] = /jointset/ground_pelvis/pelvis_ty/speed
+y[10] = /jointset/ground_pelvis/pelvis_tz/value
+y[11] = /jointset/ground_pelvis/pelvis_tz/speed
+y[12] = /jointset/hip_r/hip_flexion_r/value
+y[13] = /jointset/hip_r/hip_flexion_r/speed
+y[14] = /jointset/hip_r/hip_adduction_r/value
+y[15] = /jointset/hip_r/hip_adduction_r/speed
+y[16] = /jointset/hip_r/hip_rotation_r/value
+y[17] = /jointset/hip_r/hip_rotation_r/speed
+y[18] = /jointset/pf_r/pf_ty_r/value
+y[19] = /jointset/pf_r/pf_ty_r/speed
+y[20] = /jointset/knee_r/knee_angle_r/value
+y[21] = /jointset/knee_r/knee_angle_r/speed
+y[22] = /jointset/knee_r/knee_add_r/value
+y[23] = /jointset/knee_r/knee_add_r/speed
+y[24] = /jointset/knee_r/knee_rot_r/value
+y[25] = /jointset/knee_r/knee_rot_r/speed
+y[26] = /jointset/knee_r/knee_tx_r/value
+y[27] = /jointset/knee_r/knee_tx_r/speed
+y[28] = /jointset/knee_r/knee_ty_r/value
+y[29] = /jointset/knee_r/knee_ty_r/speed
+y[30] = /jointset/knee_r/knee_tz_r/value
+y[31] = /jointset/knee_r/knee_tz_r/speed
+y[32] = /forceset/vas_med_r/activation
+y[33] = /forceset/vas_med_r/fiber_length
+y[34] = /forceset/vas_int_r/activation
+y[35] = /forceset/vas_int_r/fiber_length
+y[36] = /forceset/vas_lat_r/activation
+y[37] = /forceset/vas_lat_r/fiber_length
+y[38] = /forceset/aACL_muscle/activation
+y[39] = /forceset/aACL_muscle/fiber_length
+y[40] = /forceset/pACL_muscle/activation
+y[41] = /forceset/pACL_muscle/fiber_length
+y[42] = /forceset/aPCL_muscle/activation
+y[43] = /forceset/aPCL_muscle/fiber_length
+y[44] = /forceset/pPCL_muscle/activation
+y[45] = /forceset/pPCL_muscle/fiber_length
+y[46] = /forceset/LCL_muscle/activation
+y[47] = /forceset/LCL_muscle/fiber_length
+y[48] = /forceset/PFL_muscle/activation
+y[49] = /forceset/PFL_muscle/fiber_length
+y[50] = /forceset/CAPa_muscle/activation
+y[51] = /forceset/CAPa_muscle/fiber_length
+y[52] = /forceset/CAPl_muscle/activation
+y[53] = /forceset/CAPl_muscle/fiber_length
+y[54] = /forceset/CAPo_muscle/activation
+y[55] = /forceset/CAPo_muscle/fiber_length
+y[56] = /forceset/CAPm_muscle/activation
+y[57] = /forceset/CAPm_muscle/fiber_length
+y[58] = /forceset/aMCL_muscle/activation
+y[59] = /forceset/aMCL_muscle/fiber_length
+y[60] = /forceset/iMCL_muscle/activation
+y[61] = /forceset/iMCL_muscle/fiber_length
+y[62] = /forceset/pMCL_muscle/activation
+y[63] = /forceset/pMCL_muscle/fiber_length
+y[64] = /forceset/aCM_muscle/activation
+y[65] = /forceset/aCM_muscle/fiber_length
+y[66] = /forceset/pCM_muscle/activation
+y[67] = /forceset/pCM_muscle/fiber_length
+y[68] = /forceset/cPT_muscle/activation
+y[69] = /forceset/cPT_muscle/fiber_length
+y[70] = /forceset/mPT_muscle/activation
+y[71] = /forceset/mPT_muscle/fiber_length
+y[72] = /forceset/lPT_muscle/activation
+y[73] = /forceset/lPT_muscle/fiber_length
+
+[2024-03-03 11:23:36.225] [info] Integrating from 0.0 to 40.0.
+[2024-03-03 11:23:36.346] [warning] Coordinate.setValue:  coordinate pelvis_tilt is locked. Unable to change its value.
+[2024-03-03 11:23:36.346] [warning] Coordinate.setValue:  coordinate pelvis_list is locked. Unable to change its value.
+[2024-03-03 11:23:36.346] [warning] Coordinate.setValue:  coordinate pelvis_rotation is locked. Unable to change its value.
+[2024-03-03 11:23:36.346] [warning] Coordinate.setValue:  coordinate pelvis_tx is locked. Unable to change its value.
+[2024-03-03 11:23:36.346] [warning] Coordinate.setValue:  coordinate pelvis_ty is locked. Unable to change its value.
+[2024-03-03 11:23:36.346] [warning] Coordinate.setValue:  coordinate pelvis_tz is locked. Unable to change its value.
+[2024-03-03 11:23:36.346] [warning] Coordinate.setValue:  coordinate hip_flexion_r is locked. Unable to change its value.
+[2024-03-03 11:23:36.346] [warning] Coordinate.setValue:  coordinate hip_adduction_r is locked. Unable to change its value.
+[2024-03-03 11:23:36.346] [warning] Coordinate.setValue:  coordinate hip_rotation_r is locked. Unable to change its value.
+[2024-03-03 11:24:02.886] [error] ForwardTool::run() caught an exception: 
+ Operation Aborted
+[2024-03-03 11:24:02.886] [info] Printing results of investigation Runner18 to C:\Users\noah-\Desktop\Knee_Model_V2\Passive_Flexion\.
+[2024-03-03 11:28:16.308] [warning] Running tool Runner18...
+[2024-03-03 11:28:16.308] [info] No external loads will be applied (external loads file not specified).
+[2024-03-03 11:28:16.462] [cout] [info] MODEL: Runner18
+
+numStates = 75
+numCoordinates = 16
+numSpeeds = 16
+numActuators = 21
+numBodies = 4
+numConstraints = 0
+numProbes = 0
+
+ANALYSES (total: 2)
+analysis[0] = Un-named analysis.
+analysis[1] = Un-named analysis.
+
+BODIES (total: 4)
+body[0] = pelvis. mass: 12.1489
+              moments of inertia:  ~[0.134454,0.113919,0.0757283]
+              products of inertia: ~[0,0,0]
+body[1] = femur_r. mass: 9.59514
+              moments of inertia:  ~[0.177627,0.0465625,0.187311]
+              products of inertia: ~[0,0,0]
+body[2] = patella_r. mass: 0.4875
+              moments of inertia:  ~[1.6e-05,7.4e-05,7.4e-05]
+              products of inertia: ~[0,0,0]
+body[3] = tibia_r. mass: 3.82458
+              moments of inertia:  ~[0.0349592,0.00353754,0.0354447]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 4)
+joint[0] = ground_pelvis. parent: ground_offset, child: pelvis_offset
+joint[1] = hip_r. parent: pelvis_offset, child: femur_r_offset
+joint[2] = pf_r. parent: femur_r_offset, child: patella_r_offset
+joint[3] = knee_r. parent: femur_r_offset, child: tibia_r_offset
+
+ACTUATORS (total: 21)
+actuator[0] = vas_med_r
+actuator[1] = vas_int_r
+actuator[2] = vas_lat_r
+actuator[3] = aACL_muscle
+actuator[4] = pACL_muscle
+actuator[5] = aPCL_muscle
+actuator[6] = pPCL_muscle
+actuator[7] = LCL_muscle
+actuator[8] = PFL_muscle
+actuator[9] = CAPa_muscle
+actuator[10] = CAPl_muscle
+actuator[11] = CAPo_muscle
+actuator[12] = CAPm_muscle
+actuator[13] = aMCL_muscle
+actuator[14] = iMCL_muscle
+actuator[15] = pMCL_muscle
+actuator[16] = aCM_muscle
+actuator[17] = pCM_muscle
+actuator[18] = cPT_muscle
+actuator[19] = mPT_muscle
+actuator[20] = lPT_muscle
+
+STATES (total: 74)
+y[0] = /jointset/ground_pelvis/pelvis_tilt/value
+y[1] = /jointset/ground_pelvis/pelvis_tilt/speed
+y[2] = /jointset/ground_pelvis/pelvis_list/value
+y[3] = /jointset/ground_pelvis/pelvis_list/speed
+y[4] = /jointset/ground_pelvis/pelvis_rotation/value
+y[5] = /jointset/ground_pelvis/pelvis_rotation/speed
+y[6] = /jointset/ground_pelvis/pelvis_tx/value
+y[7] = /jointset/ground_pelvis/pelvis_tx/speed
+y[8] = /jointset/ground_pelvis/pelvis_ty/value
+y[9] = /jointset/ground_pelvis/pelvis_ty/speed
+y[10] = /jointset/ground_pelvis/pelvis_tz/value
+y[11] = /jointset/ground_pelvis/pelvis_tz/speed
+y[12] = /jointset/hip_r/hip_flexion_r/value
+y[13] = /jointset/hip_r/hip_flexion_r/speed
+y[14] = /jointset/hip_r/hip_adduction_r/value
+y[15] = /jointset/hip_r/hip_adduction_r/speed
+y[16] = /jointset/hip_r/hip_rotation_r/value
+y[17] = /jointset/hip_r/hip_rotation_r/speed
+y[18] = /jointset/pf_r/pf_ty_r/value
+y[19] = /jointset/pf_r/pf_ty_r/speed
+y[20] = /jointset/knee_r/knee_angle_r/value
+y[21] = /jointset/knee_r/knee_angle_r/speed
+y[22] = /jointset/knee_r/knee_add_r/value
+y[23] = /jointset/knee_r/knee_add_r/speed
+y[24] = /jointset/knee_r/knee_rot_r/value
+y[25] = /jointset/knee_r/knee_rot_r/speed
+y[26] = /jointset/knee_r/knee_tx_r/value
+y[27] = /jointset/knee_r/knee_tx_r/speed
+y[28] = /jointset/knee_r/knee_ty_r/value
+y[29] = /jointset/knee_r/knee_ty_r/speed
+y[30] = /jointset/knee_r/knee_tz_r/value
+y[31] = /jointset/knee_r/knee_tz_r/speed
+y[32] = /forceset/vas_med_r/activation
+y[33] = /forceset/vas_med_r/fiber_length
+y[34] = /forceset/vas_int_r/activation
+y[35] = /forceset/vas_int_r/fiber_length
+y[36] = /forceset/vas_lat_r/activation
+y[37] = /forceset/vas_lat_r/fiber_length
+y[38] = /forceset/aACL_muscle/activation
+y[39] = /forceset/aACL_muscle/fiber_length
+y[40] = /forceset/pACL_muscle/activation
+y[41] = /forceset/pACL_muscle/fiber_length
+y[42] = /forceset/aPCL_muscle/activation
+y[43] = /forceset/aPCL_muscle/fiber_length
+y[44] = /forceset/pPCL_muscle/activation
+y[45] = /forceset/pPCL_muscle/fiber_length
+y[46] = /forceset/LCL_muscle/activation
+y[47] = /forceset/LCL_muscle/fiber_length
+y[48] = /forceset/PFL_muscle/activation
+y[49] = /forceset/PFL_muscle/fiber_length
+y[50] = /forceset/CAPa_muscle/activation
+y[51] = /forceset/CAPa_muscle/fiber_length
+y[52] = /forceset/CAPl_muscle/activation
+y[53] = /forceset/CAPl_muscle/fiber_length
+y[54] = /forceset/CAPo_muscle/activation
+y[55] = /forceset/CAPo_muscle/fiber_length
+y[56] = /forceset/CAPm_muscle/activation
+y[57] = /forceset/CAPm_muscle/fiber_length
+y[58] = /forceset/aMCL_muscle/activation
+y[59] = /forceset/aMCL_muscle/fiber_length
+y[60] = /forceset/iMCL_muscle/activation
+y[61] = /forceset/iMCL_muscle/fiber_length
+y[62] = /forceset/pMCL_muscle/activation
+y[63] = /forceset/pMCL_muscle/fiber_length
+y[64] = /forceset/aCM_muscle/activation
+y[65] = /forceset/aCM_muscle/fiber_length
+y[66] = /forceset/pCM_muscle/activation
+y[67] = /forceset/pCM_muscle/fiber_length
+y[68] = /forceset/cPT_muscle/activation
+y[69] = /forceset/cPT_muscle/fiber_length
+y[70] = /forceset/mPT_muscle/activation
+y[71] = /forceset/mPT_muscle/fiber_length
+y[72] = /forceset/lPT_muscle/activation
+y[73] = /forceset/lPT_muscle/fiber_length
+
+[2024-03-03 11:28:16.462] [info] Integrating from 0.0 to 5.0.
+[2024-03-03 11:30:12.695] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:30:12.710] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 11:30:47.500] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:30:47.515] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 11:32:02.944] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:32:02.960] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 11:34:26.509] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:34:26.524] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 11:34:26.528] [info] AbstractTool Runner18 loading model ../runner18_scaled_passiveFlex.osim
+[2024-03-03 11:34:26.535] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:34:26.549] [info] Loaded model Runner18 from file ../runner18_scaled_passiveFlex.osim
+[2024-03-03 11:35:33.190] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:35:33.205] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 11:35:33.208] [info] AbstractTool Runner18 loading model ../runner18_scaled_passiveFlex.osim
+[2024-03-03 11:35:33.215] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:35:33.230] [info] Loaded model Runner18 from file ../runner18_scaled_passiveFlex.osim
+[2024-03-03 11:35:33.802] [warning] Running tool Runner18...
+[2024-03-03 11:35:33.802] [info] No external loads will be applied (external loads file not specified).
+[2024-03-03 11:35:34.004] [cout] [info] MODEL: Runner18
+
+numStates = 75
+numCoordinates = 16
+numSpeeds = 16
+numActuators = 21
+numBodies = 4
+numConstraints = 0
+numProbes = 0
+
+ANALYSES (total: 2)
+analysis[0] = ForceReporter
+analysis[1] = PointKinematics
+
+BODIES (total: 4)
+body[0] = pelvis. mass: 12.1489
+              moments of inertia:  ~[0.134454,0.113919,0.0757283]
+              products of inertia: ~[0,0,0]
+body[1] = femur_r. mass: 9.59514
+              moments of inertia:  ~[0.177627,0.0465625,0.187311]
+              products of inertia: ~[0,0,0]
+body[2] = patella_r. mass: 0.4875
+              moments of inertia:  ~[1.6e-05,7.4e-05,7.4e-05]
+              products of inertia: ~[0,0,0]
+body[3] = tibia_r. mass: 3.82458
+              moments of inertia:  ~[0.0349592,0.00353754,0.0354447]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 4)
+joint[0] = ground_pelvis. parent: ground_offset, child: pelvis_offset
+joint[1] = hip_r. parent: pelvis_offset, child: femur_r_offset
+joint[2] = pf_r. parent: femur_r_offset, child: patella_r_offset
+joint[3] = knee_r. parent: femur_r_offset, child: tibia_r_offset
+
+ACTUATORS (total: 21)
+actuator[0] = vas_med_r
+actuator[1] = vas_int_r
+actuator[2] = vas_lat_r
+actuator[3] = aACL_muscle
+actuator[4] = pACL_muscle
+actuator[5] = aPCL_muscle
+actuator[6] = pPCL_muscle
+actuator[7] = LCL_muscle
+actuator[8] = PFL_muscle
+actuator[9] = CAPa_muscle
+actuator[10] = CAPl_muscle
+actuator[11] = CAPo_muscle
+actuator[12] = CAPm_muscle
+actuator[13] = aMCL_muscle
+actuator[14] = iMCL_muscle
+actuator[15] = pMCL_muscle
+actuator[16] = aCM_muscle
+actuator[17] = pCM_muscle
+actuator[18] = cPT_muscle
+actuator[19] = mPT_muscle
+actuator[20] = lPT_muscle
+
+STATES (total: 74)
+y[0] = /jointset/ground_pelvis/pelvis_tilt/value
+y[1] = /jointset/ground_pelvis/pelvis_tilt/speed
+y[2] = /jointset/ground_pelvis/pelvis_list/value
+y[3] = /jointset/ground_pelvis/pelvis_list/speed
+y[4] = /jointset/ground_pelvis/pelvis_rotation/value
+y[5] = /jointset/ground_pelvis/pelvis_rotation/speed
+y[6] = /jointset/ground_pelvis/pelvis_tx/value
+y[7] = /jointset/ground_pelvis/pelvis_tx/speed
+y[8] = /jointset/ground_pelvis/pelvis_ty/value
+y[9] = /jointset/ground_pelvis/pelvis_ty/speed
+y[10] = /jointset/ground_pelvis/pelvis_tz/value
+y[11] = /jointset/ground_pelvis/pelvis_tz/speed
+y[12] = /jointset/hip_r/hip_flexion_r/value
+y[13] = /jointset/hip_r/hip_flexion_r/speed
+y[14] = /jointset/hip_r/hip_adduction_r/value
+y[15] = /jointset/hip_r/hip_adduction_r/speed
+y[16] = /jointset/hip_r/hip_rotation_r/value
+y[17] = /jointset/hip_r/hip_rotation_r/speed
+y[18] = /jointset/pf_r/pf_ty_r/value
+y[19] = /jointset/pf_r/pf_ty_r/speed
+y[20] = /jointset/knee_r/knee_angle_r/value
+y[21] = /jointset/knee_r/knee_angle_r/speed
+y[22] = /jointset/knee_r/knee_add_r/value
+y[23] = /jointset/knee_r/knee_add_r/speed
+y[24] = /jointset/knee_r/knee_rot_r/value
+y[25] = /jointset/knee_r/knee_rot_r/speed
+y[26] = /jointset/knee_r/knee_tx_r/value
+y[27] = /jointset/knee_r/knee_tx_r/speed
+y[28] = /jointset/knee_r/knee_ty_r/value
+y[29] = /jointset/knee_r/knee_ty_r/speed
+y[30] = /jointset/knee_r/knee_tz_r/value
+y[31] = /jointset/knee_r/knee_tz_r/speed
+y[32] = /forceset/vas_med_r/activation
+y[33] = /forceset/vas_med_r/fiber_length
+y[34] = /forceset/vas_int_r/activation
+y[35] = /forceset/vas_int_r/fiber_length
+y[36] = /forceset/vas_lat_r/activation
+y[37] = /forceset/vas_lat_r/fiber_length
+y[38] = /forceset/aACL_muscle/activation
+y[39] = /forceset/aACL_muscle/fiber_length
+y[40] = /forceset/pACL_muscle/activation
+y[41] = /forceset/pACL_muscle/fiber_length
+y[42] = /forceset/aPCL_muscle/activation
+y[43] = /forceset/aPCL_muscle/fiber_length
+y[44] = /forceset/pPCL_muscle/activation
+y[45] = /forceset/pPCL_muscle/fiber_length
+y[46] = /forceset/LCL_muscle/activation
+y[47] = /forceset/LCL_muscle/fiber_length
+y[48] = /forceset/PFL_muscle/activation
+y[49] = /forceset/PFL_muscle/fiber_length
+y[50] = /forceset/CAPa_muscle/activation
+y[51] = /forceset/CAPa_muscle/fiber_length
+y[52] = /forceset/CAPl_muscle/activation
+y[53] = /forceset/CAPl_muscle/fiber_length
+y[54] = /forceset/CAPo_muscle/activation
+y[55] = /forceset/CAPo_muscle/fiber_length
+y[56] = /forceset/CAPm_muscle/activation
+y[57] = /forceset/CAPm_muscle/fiber_length
+y[58] = /forceset/aMCL_muscle/activation
+y[59] = /forceset/aMCL_muscle/fiber_length
+y[60] = /forceset/iMCL_muscle/activation
+y[61] = /forceset/iMCL_muscle/fiber_length
+y[62] = /forceset/pMCL_muscle/activation
+y[63] = /forceset/pMCL_muscle/fiber_length
+y[64] = /forceset/aCM_muscle/activation
+y[65] = /forceset/aCM_muscle/fiber_length
+y[66] = /forceset/pCM_muscle/activation
+y[67] = /forceset/pCM_muscle/fiber_length
+y[68] = /forceset/cPT_muscle/activation
+y[69] = /forceset/cPT_muscle/fiber_length
+y[70] = /forceset/mPT_muscle/activation
+y[71] = /forceset/mPT_muscle/fiber_length
+y[72] = /forceset/lPT_muscle/activation
+y[73] = /forceset/lPT_muscle/fiber_length
+
+[2024-03-03 11:35:34.004] [info] Integrating from 0.0 to 40.0.
+[2024-03-03 11:43:17.603] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:43:17.619] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 11:43:17.641] [info] AbstractTool Runner18 loading model ../runner18_scaled_passiveFlex.osim
+[2024-03-03 11:43:17.648] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:43:17.664] [info] Loaded model Runner18 from file ../runner18_scaled_passiveFlex.osim
+[2024-03-03 11:43:28.931] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:43:28.946] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 11:43:28.948] [info] AbstractTool Runner18 loading model ../runner18_scaled_passiveFlex.osim
+[2024-03-03 11:43:28.956] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:43:28.970] [info] Loaded model Runner18 from file ../runner18_scaled_passiveFlex.osim
+[2024-03-03 11:43:29.653] [warning] Running tool Runner18...
+[2024-03-03 11:43:29.653] [info] No external loads will be applied (external loads file not specified).
+[2024-03-03 11:43:29.835] [cout] [info] MODEL: Runner18
+
+numStates = 75
+numCoordinates = 16
+numSpeeds = 16
+numActuators = 21
+numBodies = 4
+numConstraints = 0
+numProbes = 0
+
+ANALYSES (total: 2)
+analysis[0] = ForceReporter
+analysis[1] = PointKinematics
+
+BODIES (total: 4)
+body[0] = pelvis. mass: 12.1489
+              moments of inertia:  ~[0.134454,0.113919,0.0757283]
+              products of inertia: ~[0,0,0]
+body[1] = femur_r. mass: 9.59514
+              moments of inertia:  ~[0.177627,0.0465625,0.187311]
+              products of inertia: ~[0,0,0]
+body[2] = patella_r. mass: 0.4875
+              moments of inertia:  ~[1.6e-05,7.4e-05,7.4e-05]
+              products of inertia: ~[0,0,0]
+body[3] = tibia_r. mass: 3.82458
+              moments of inertia:  ~[0.0349592,0.00353754,0.0354447]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 4)
+joint[0] = ground_pelvis. parent: ground_offset, child: pelvis_offset
+joint[1] = hip_r. parent: pelvis_offset, child: femur_r_offset
+joint[2] = pf_r. parent: femur_r_offset, child: patella_r_offset
+joint[3] = knee_r. parent: femur_r_offset, child: tibia_r_offset
+
+ACTUATORS (total: 21)
+actuator[0] = vas_med_r
+actuator[1] = vas_int_r
+actuator[2] = vas_lat_r
+actuator[3] = aACL_muscle
+actuator[4] = pACL_muscle
+actuator[5] = aPCL_muscle
+actuator[6] = pPCL_muscle
+actuator[7] = LCL_muscle
+actuator[8] = PFL_muscle
+actuator[9] = CAPa_muscle
+actuator[10] = CAPl_muscle
+actuator[11] = CAPo_muscle
+actuator[12] = CAPm_muscle
+actuator[13] = aMCL_muscle
+actuator[14] = iMCL_muscle
+actuator[15] = pMCL_muscle
+actuator[16] = aCM_muscle
+actuator[17] = pCM_muscle
+actuator[18] = cPT_muscle
+actuator[19] = mPT_muscle
+actuator[20] = lPT_muscle
+
+STATES (total: 74)
+y[0] = /jointset/ground_pelvis/pelvis_tilt/value
+y[1] = /jointset/ground_pelvis/pelvis_tilt/speed
+y[2] = /jointset/ground_pelvis/pelvis_list/value
+y[3] = /jointset/ground_pelvis/pelvis_list/speed
+y[4] = /jointset/ground_pelvis/pelvis_rotation/value
+y[5] = /jointset/ground_pelvis/pelvis_rotation/speed
+y[6] = /jointset/ground_pelvis/pelvis_tx/value
+y[7] = /jointset/ground_pelvis/pelvis_tx/speed
+y[8] = /jointset/ground_pelvis/pelvis_ty/value
+y[9] = /jointset/ground_pelvis/pelvis_ty/speed
+y[10] = /jointset/ground_pelvis/pelvis_tz/value
+y[11] = /jointset/ground_pelvis/pelvis_tz/speed
+y[12] = /jointset/hip_r/hip_flexion_r/value
+y[13] = /jointset/hip_r/hip_flexion_r/speed
+y[14] = /jointset/hip_r/hip_adduction_r/value
+y[15] = /jointset/hip_r/hip_adduction_r/speed
+y[16] = /jointset/hip_r/hip_rotation_r/value
+y[17] = /jointset/hip_r/hip_rotation_r/speed
+y[18] = /jointset/pf_r/pf_ty_r/value
+y[19] = /jointset/pf_r/pf_ty_r/speed
+y[20] = /jointset/knee_r/knee_angle_r/value
+y[21] = /jointset/knee_r/knee_angle_r/speed
+y[22] = /jointset/knee_r/knee_add_r/value
+y[23] = /jointset/knee_r/knee_add_r/speed
+y[24] = /jointset/knee_r/knee_rot_r/value
+y[25] = /jointset/knee_r/knee_rot_r/speed
+y[26] = /jointset/knee_r/knee_tx_r/value
+y[27] = /jointset/knee_r/knee_tx_r/speed
+y[28] = /jointset/knee_r/knee_ty_r/value
+y[29] = /jointset/knee_r/knee_ty_r/speed
+y[30] = /jointset/knee_r/knee_tz_r/value
+y[31] = /jointset/knee_r/knee_tz_r/speed
+y[32] = /forceset/vas_med_r/activation
+y[33] = /forceset/vas_med_r/fiber_length
+y[34] = /forceset/vas_int_r/activation
+y[35] = /forceset/vas_int_r/fiber_length
+y[36] = /forceset/vas_lat_r/activation
+y[37] = /forceset/vas_lat_r/fiber_length
+y[38] = /forceset/aACL_muscle/activation
+y[39] = /forceset/aACL_muscle/fiber_length
+y[40] = /forceset/pACL_muscle/activation
+y[41] = /forceset/pACL_muscle/fiber_length
+y[42] = /forceset/aPCL_muscle/activation
+y[43] = /forceset/aPCL_muscle/fiber_length
+y[44] = /forceset/pPCL_muscle/activation
+y[45] = /forceset/pPCL_muscle/fiber_length
+y[46] = /forceset/LCL_muscle/activation
+y[47] = /forceset/LCL_muscle/fiber_length
+y[48] = /forceset/PFL_muscle/activation
+y[49] = /forceset/PFL_muscle/fiber_length
+y[50] = /forceset/CAPa_muscle/activation
+y[51] = /forceset/CAPa_muscle/fiber_length
+y[52] = /forceset/CAPl_muscle/activation
+y[53] = /forceset/CAPl_muscle/fiber_length
+y[54] = /forceset/CAPo_muscle/activation
+y[55] = /forceset/CAPo_muscle/fiber_length
+y[56] = /forceset/CAPm_muscle/activation
+y[57] = /forceset/CAPm_muscle/fiber_length
+y[58] = /forceset/aMCL_muscle/activation
+y[59] = /forceset/aMCL_muscle/fiber_length
+y[60] = /forceset/iMCL_muscle/activation
+y[61] = /forceset/iMCL_muscle/fiber_length
+y[62] = /forceset/pMCL_muscle/activation
+y[63] = /forceset/pMCL_muscle/fiber_length
+y[64] = /forceset/aCM_muscle/activation
+y[65] = /forceset/aCM_muscle/fiber_length
+y[66] = /forceset/pCM_muscle/activation
+y[67] = /forceset/pCM_muscle/fiber_length
+y[68] = /forceset/cPT_muscle/activation
+y[69] = /forceset/cPT_muscle/fiber_length
+y[70] = /forceset/mPT_muscle/activation
+y[71] = /forceset/mPT_muscle/fiber_length
+y[72] = /forceset/lPT_muscle/activation
+y[73] = /forceset/lPT_muscle/fiber_length
+
+[2024-03-03 11:43:29.835] [info] Integrating from 0.0 to 40.0.
+[2024-03-03 11:46:32.716] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:46:32.733] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 11:46:32.755] [info] AbstractTool Runner18 loading model ../runner18_scaled_passiveFlex.osim
+[2024-03-03 11:46:32.763] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:46:32.778] [info] Loaded model Runner18 from file ../runner18_scaled_passiveFlex.osim
+[2024-03-03 11:48:03.208] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:48:03.223] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 11:48:03.225] [info] AbstractTool Runner18 loading model ../runner18_scaled_passiveFlex.osim
+[2024-03-03 11:48:03.232] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:48:03.247] [info] Loaded model Runner18 from file ../runner18_scaled_passiveFlex.osim
+[2024-03-03 11:54:03.785] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:54:03.800] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 11:54:11.271] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:54:11.285] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 11:54:27.248] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:54:27.263] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 11:59:48.209] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 11:59:48.226] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 12:02:26.612] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 12:02:26.629] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 12:03:14.319] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 12:03:14.335] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 12:03:51.302] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 12:03:51.316] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 12:04:05.435] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 12:04:05.451] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 12:04:58.420] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 12:04:58.436] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-03 12:10:42.831] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\trial_model_add_muscle.osim
+[2024-03-03 12:11:02.397] [warning] Running tool Runner18...
+[2024-03-03 12:11:02.398] [info] No external loads will be applied (external loads file not specified).
+[2024-03-03 12:11:02.560] [cout] [info] MODEL: Runner18
+
+numStates = 77
+numCoordinates = 16
+numSpeeds = 16
+numActuators = 22
+numBodies = 4
+numConstraints = 0
+numProbes = 0
+
+ANALYSES (total: 4)
+analysis[0] = ForceReporter
+analysis[1] = PointKinematics
+analysis[2] = Un-named analysis.
+analysis[3] = Un-named analysis.
+
+BODIES (total: 4)
+body[0] = pelvis. mass: 12.1489
+              moments of inertia:  ~[0.134454,0.113919,0.0757283]
+              products of inertia: ~[0,0,0]
+body[1] = femur_r. mass: 9.59514
+              moments of inertia:  ~[0.177627,0.0465625,0.187311]
+              products of inertia: ~[0,0,0]
+body[2] = patella_r. mass: 0.4875
+              moments of inertia:  ~[1.6e-05,7.4e-05,7.4e-05]
+              products of inertia: ~[0,0,0]
+body[3] = tibia_r. mass: 3.82458
+              moments of inertia:  ~[0.0349592,0.00353754,0.0354447]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 4)
+joint[0] = ground_pelvis. parent: ground_offset, child: pelvis_offset
+joint[1] = hip_r. parent: pelvis_offset, child: femur_r_offset
+joint[2] = pf_r. parent: femur_r_offset, child: patella_r_offset
+joint[3] = knee_r. parent: femur_r_offset, child: tibia_r_offset
+
+ACTUATORS (total: 22)
+actuator[0] = vas_med_r
+actuator[1] = vas_int_r
+actuator[2] = vas_lat_r
+actuator[3] = aACL_muscle
+actuator[4] = pACL_muscle
+actuator[5] = aPCL_muscle
+actuator[6] = pPCL_muscle
+actuator[7] = LCL_muscle
+actuator[8] = PFL_muscle
+actuator[9] = CAPa_muscle
+actuator[10] = CAPl_muscle
+actuator[11] = CAPo_muscle
+actuator[12] = CAPm_muscle
+actuator[13] = aMCL_muscle
+actuator[14] = iMCL_muscle
+actuator[15] = pMCL_muscle
+actuator[16] = aCM_muscle
+actuator[17] = pCM_muscle
+actuator[18] = cPT_muscle
+actuator[19] = mPT_muscle
+actuator[20] = lPT_muscle
+actuator[21] = bifemlh_r
+
+STATES (total: 76)
+y[0] = /jointset/ground_pelvis/pelvis_tilt/value
+y[1] = /jointset/ground_pelvis/pelvis_tilt/speed
+y[2] = /jointset/ground_pelvis/pelvis_list/value
+y[3] = /jointset/ground_pelvis/pelvis_list/speed
+y[4] = /jointset/ground_pelvis/pelvis_rotation/value
+y[5] = /jointset/ground_pelvis/pelvis_rotation/speed
+y[6] = /jointset/ground_pelvis/pelvis_tx/value
+y[7] = /jointset/ground_pelvis/pelvis_tx/speed
+y[8] = /jointset/ground_pelvis/pelvis_ty/value
+y[9] = /jointset/ground_pelvis/pelvis_ty/speed
+y[10] = /jointset/ground_pelvis/pelvis_tz/value
+y[11] = /jointset/ground_pelvis/pelvis_tz/speed
+y[12] = /jointset/hip_r/hip_flexion_r/value
+y[13] = /jointset/hip_r/hip_flexion_r/speed
+y[14] = /jointset/hip_r/hip_adduction_r/value
+y[15] = /jointset/hip_r/hip_adduction_r/speed
+y[16] = /jointset/hip_r/hip_rotation_r/value
+y[17] = /jointset/hip_r/hip_rotation_r/speed
+y[18] = /jointset/pf_r/pf_ty_r/value
+y[19] = /jointset/pf_r/pf_ty_r/speed
+y[20] = /jointset/knee_r/knee_angle_r/value
+y[21] = /jointset/knee_r/knee_angle_r/speed
+y[22] = /jointset/knee_r/knee_add_r/value
+y[23] = /jointset/knee_r/knee_add_r/speed
+y[24] = /jointset/knee_r/knee_rot_r/value
+y[25] = /jointset/knee_r/knee_rot_r/speed
+y[26] = /jointset/knee_r/knee_tx_r/value
+y[27] = /jointset/knee_r/knee_tx_r/speed
+y[28] = /jointset/knee_r/knee_ty_r/value
+y[29] = /jointset/knee_r/knee_ty_r/speed
+y[30] = /jointset/knee_r/knee_tz_r/value
+y[31] = /jointset/knee_r/knee_tz_r/speed
+y[32] = /forceset/vas_med_r/activation
+y[33] = /forceset/vas_med_r/fiber_length
+y[34] = /forceset/vas_int_r/activation
+y[35] = /forceset/vas_int_r/fiber_length
+y[36] = /forceset/vas_lat_r/activation
+y[37] = /forceset/vas_lat_r/fiber_length
+y[38] = /forceset/aACL_muscle/activation
+y[39] = /forceset/aACL_muscle/fiber_length
+y[40] = /forceset/pACL_muscle/activation
+y[41] = /forceset/pACL_muscle/fiber_length
+y[42] = /forceset/aPCL_muscle/activation
+y[43] = /forceset/aPCL_muscle/fiber_length
+y[44] = /forceset/pPCL_muscle/activation
+y[45] = /forceset/pPCL_muscle/fiber_length
+y[46] = /forceset/LCL_muscle/activation
+y[47] = /forceset/LCL_muscle/fiber_length
+y[48] = /forceset/PFL_muscle/activation
+y[49] = /forceset/PFL_muscle/fiber_length
+y[50] = /forceset/CAPa_muscle/activation
+y[51] = /forceset/CAPa_muscle/fiber_length
+y[52] = /forceset/CAPl_muscle/activation
+y[53] = /forceset/CAPl_muscle/fiber_length
+y[54] = /forceset/CAPo_muscle/activation
+y[55] = /forceset/CAPo_muscle/fiber_length
+y[56] = /forceset/CAPm_muscle/activation
+y[57] = /forceset/CAPm_muscle/fiber_length
+y[58] = /forceset/aMCL_muscle/activation
+y[59] = /forceset/aMCL_muscle/fiber_length
+y[60] = /forceset/iMCL_muscle/activation
+y[61] = /forceset/iMCL_muscle/fiber_length
+y[62] = /forceset/pMCL_muscle/activation
+y[63] = /forceset/pMCL_muscle/fiber_length
+y[64] = /forceset/aCM_muscle/activation
+y[65] = /forceset/aCM_muscle/fiber_length
+y[66] = /forceset/pCM_muscle/activation
+y[67] = /forceset/pCM_muscle/fiber_length
+y[68] = /forceset/cPT_muscle/activation
+y[69] = /forceset/cPT_muscle/fiber_length
+y[70] = /forceset/mPT_muscle/activation
+y[71] = /forceset/mPT_muscle/fiber_length
+y[72] = /forceset/lPT_muscle/activation
+y[73] = /forceset/lPT_muscle/fiber_length
+y[74] = /forceset/bifemlh_r/activation
+y[75] = /forceset/bifemlh_r/fiber_length
+
+[2024-03-03 12:11:02.560] [info] Integrating from 0.0 to 40.0.
+[2024-03-03 12:11:02.680] [warning] Coordinate.setValue:  coordinate pelvis_tilt is locked. Unable to change its value.
+[2024-03-03 12:11:02.680] [warning] Coordinate.setValue:  coordinate pelvis_list is locked. Unable to change its value.
+[2024-03-03 12:11:02.680] [warning] Coordinate.setValue:  coordinate pelvis_rotation is locked. Unable to change its value.
+[2024-03-03 12:11:02.680] [warning] Coordinate.setValue:  coordinate pelvis_tx is locked. Unable to change its value.
+[2024-03-03 12:11:02.680] [warning] Coordinate.setValue:  coordinate pelvis_ty is locked. Unable to change its value.
+[2024-03-03 12:11:02.680] [warning] Coordinate.setValue:  coordinate pelvis_tz is locked. Unable to change its value.
+[2024-03-03 12:11:02.680] [warning] Coordinate.setValue:  coordinate hip_flexion_r is locked. Unable to change its value.
+[2024-03-03 12:11:02.680] [warning] Coordinate.setValue:  coordinate hip_adduction_r is locked. Unable to change its value.
+[2024-03-03 12:11:02.680] [warning] Coordinate.setValue:  coordinate hip_rotation_r is locked. Unable to change its value.
+[2024-03-03 12:11:25.436] [error] ForwardTool::run() caught an exception: 
+ Operation Aborted
+[2024-03-03 12:11:25.437] [info] Printing results of investigation Runner18 to C:\Users\noah-\Desktop\Knee_Model_V2\Passive_Flexion\.
+[2024-03-03 12:11:52.599] [warning] Running tool Runner18...
+[2024-03-03 12:11:52.599] [info] No external loads will be applied (external loads file not specified).
+[2024-03-03 12:11:52.754] [cout] [info] MODEL: Runner18
+
+numStates = 77
+numCoordinates = 16
+numSpeeds = 16
+numActuators = 22
+numBodies = 4
+numConstraints = 0
+numProbes = 0
+
+ANALYSES (total: 4)
+analysis[0] = ForceReporter
+analysis[1] = PointKinematics
+analysis[2] = Un-named analysis.
+analysis[3] = Un-named analysis.
+
+BODIES (total: 4)
+body[0] = pelvis. mass: 12.1489
+              moments of inertia:  ~[0.134454,0.113919,0.0757283]
+              products of inertia: ~[0,0,0]
+body[1] = femur_r. mass: 9.59514
+              moments of inertia:  ~[0.177627,0.0465625,0.187311]
+              products of inertia: ~[0,0,0]
+body[2] = patella_r. mass: 0.4875
+              moments of inertia:  ~[1.6e-05,7.4e-05,7.4e-05]
+              products of inertia: ~[0,0,0]
+body[3] = tibia_r. mass: 3.82458
+              moments of inertia:  ~[0.0349592,0.00353754,0.0354447]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 4)
+joint[0] = ground_pelvis. parent: ground_offset, child: pelvis_offset
+joint[1] = hip_r. parent: pelvis_offset, child: femur_r_offset
+joint[2] = pf_r. parent: femur_r_offset, child: patella_r_offset
+joint[3] = knee_r. parent: femur_r_offset, child: tibia_r_offset
+
+ACTUATORS (total: 22)
+actuator[0] = vas_med_r
+actuator[1] = vas_int_r
+actuator[2] = vas_lat_r
+actuator[3] = aACL_muscle
+actuator[4] = pACL_muscle
+actuator[5] = aPCL_muscle
+actuator[6] = pPCL_muscle
+actuator[7] = LCL_muscle
+actuator[8] = PFL_muscle
+actuator[9] = CAPa_muscle
+actuator[10] = CAPl_muscle
+actuator[11] = CAPo_muscle
+actuator[12] = CAPm_muscle
+actuator[13] = aMCL_muscle
+actuator[14] = iMCL_muscle
+actuator[15] = pMCL_muscle
+actuator[16] = aCM_muscle
+actuator[17] = pCM_muscle
+actuator[18] = cPT_muscle
+actuator[19] = mPT_muscle
+actuator[20] = lPT_muscle
+actuator[21] = bifemlh_r
+
+STATES (total: 76)
+y[0] = /jointset/ground_pelvis/pelvis_tilt/value
+y[1] = /jointset/ground_pelvis/pelvis_tilt/speed
+y[2] = /jointset/ground_pelvis/pelvis_list/value
+y[3] = /jointset/ground_pelvis/pelvis_list/speed
+y[4] = /jointset/ground_pelvis/pelvis_rotation/value
+y[5] = /jointset/ground_pelvis/pelvis_rotation/speed
+y[6] = /jointset/ground_pelvis/pelvis_tx/value
+y[7] = /jointset/ground_pelvis/pelvis_tx/speed
+y[8] = /jointset/ground_pelvis/pelvis_ty/value
+y[9] = /jointset/ground_pelvis/pelvis_ty/speed
+y[10] = /jointset/ground_pelvis/pelvis_tz/value
+y[11] = /jointset/ground_pelvis/pelvis_tz/speed
+y[12] = /jointset/hip_r/hip_flexion_r/value
+y[13] = /jointset/hip_r/hip_flexion_r/speed
+y[14] = /jointset/hip_r/hip_adduction_r/value
+y[15] = /jointset/hip_r/hip_adduction_r/speed
+y[16] = /jointset/hip_r/hip_rotation_r/value
+y[17] = /jointset/hip_r/hip_rotation_r/speed
+y[18] = /jointset/pf_r/pf_ty_r/value
+y[19] = /jointset/pf_r/pf_ty_r/speed
+y[20] = /jointset/knee_r/knee_angle_r/value
+y[21] = /jointset/knee_r/knee_angle_r/speed
+y[22] = /jointset/knee_r/knee_add_r/value
+y[23] = /jointset/knee_r/knee_add_r/speed
+y[24] = /jointset/knee_r/knee_rot_r/value
+y[25] = /jointset/knee_r/knee_rot_r/speed
+y[26] = /jointset/knee_r/knee_tx_r/value
+y[27] = /jointset/knee_r/knee_tx_r/speed
+y[28] = /jointset/knee_r/knee_ty_r/value
+y[29] = /jointset/knee_r/knee_ty_r/speed
+y[30] = /jointset/knee_r/knee_tz_r/value
+y[31] = /jointset/knee_r/knee_tz_r/speed
+y[32] = /forceset/vas_med_r/activation
+y[33] = /forceset/vas_med_r/fiber_length
+y[34] = /forceset/vas_int_r/activation
+y[35] = /forceset/vas_int_r/fiber_length
+y[36] = /forceset/vas_lat_r/activation
+y[37] = /forceset/vas_lat_r/fiber_length
+y[38] = /forceset/aACL_muscle/activation
+y[39] = /forceset/aACL_muscle/fiber_length
+y[40] = /forceset/pACL_muscle/activation
+y[41] = /forceset/pACL_muscle/fiber_length
+y[42] = /forceset/aPCL_muscle/activation
+y[43] = /forceset/aPCL_muscle/fiber_length
+y[44] = /forceset/pPCL_muscle/activation
+y[45] = /forceset/pPCL_muscle/fiber_length
+y[46] = /forceset/LCL_muscle/activation
+y[47] = /forceset/LCL_muscle/fiber_length
+y[48] = /forceset/PFL_muscle/activation
+y[49] = /forceset/PFL_muscle/fiber_length
+y[50] = /forceset/CAPa_muscle/activation
+y[51] = /forceset/CAPa_muscle/fiber_length
+y[52] = /forceset/CAPl_muscle/activation
+y[53] = /forceset/CAPl_muscle/fiber_length
+y[54] = /forceset/CAPo_muscle/activation
+y[55] = /forceset/CAPo_muscle/fiber_length
+y[56] = /forceset/CAPm_muscle/activation
+y[57] = /forceset/CAPm_muscle/fiber_length
+y[58] = /forceset/aMCL_muscle/activation
+y[59] = /forceset/aMCL_muscle/fiber_length
+y[60] = /forceset/iMCL_muscle/activation
+y[61] = /forceset/iMCL_muscle/fiber_length
+y[62] = /forceset/pMCL_muscle/activation
+y[63] = /forceset/pMCL_muscle/fiber_length
+y[64] = /forceset/aCM_muscle/activation
+y[65] = /forceset/aCM_muscle/fiber_length
+y[66] = /forceset/pCM_muscle/activation
+y[67] = /forceset/pCM_muscle/fiber_length
+y[68] = /forceset/cPT_muscle/activation
+y[69] = /forceset/cPT_muscle/fiber_length
+y[70] = /forceset/mPT_muscle/activation
+y[71] = /forceset/mPT_muscle/fiber_length
+y[72] = /forceset/lPT_muscle/activation
+y[73] = /forceset/lPT_muscle/fiber_length
+y[74] = /forceset/bifemlh_r/activation
+y[75] = /forceset/bifemlh_r/fiber_length
+
+[2024-03-03 12:11:52.754] [info] Integrating from 0.0 to 40.0.
+[2024-03-03 12:13:53.591] [info] PointKinematics.end: Finalizing analysis PointKinematics.
+[2024-03-03 12:13:53.591] [info] Printing results of investigation Runner18 to C:\Users\noah-\Desktop\Knee_Model_V2\Passive_Flexion\.
+[2024-03-03 12:18:51.503] [info] Updating Model file from 30000 to latest format...
+[2024-03-03 12:18:51.519] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-04 21:24:23.262] [info] Updating Model file from 30000 to latest format...
+[2024-03-04 21:24:23.289] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-04 21:24:41.840] [info] Updating Model file from 30000 to latest format...
+[2024-03-04 21:24:41.865] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-04 21:25:47.792] [info] Updating Model file from 30000 to latest format...
+[2024-03-04 21:25:47.818] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim
+[2024-03-04 21:26:08.449] [info] Updating Model file from 30000 to latest format...
+[2024-03-04 21:26:08.474] [info] Loaded model Runner18 from file C:\Users\noah-\Desktop\Knee_Model_V2\runner18_scaled_passiveFlex.osim

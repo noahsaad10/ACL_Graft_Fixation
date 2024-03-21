@@ -166,7 +166,7 @@
 							<!--Path to a Component that satisfies the Socket 'frame' of type Frame.-->
 							<socket_frame>..</socket_frame>
 							<!--Scale factors in X, Y, Z directions respectively.-->
-							<scale_factors>1.1237299999999999 1.1237299999999999 1.1237299999999999</scale_factors>
+							<scale_factors> 0.82 0.82 0.82</scale_factors>
 							<!--Default appearance attributes for this Geometry-->
 							<Appearance>
 								<!--The opacity used to display the geometry between 0:transparent, 1:opaque.-->
@@ -204,7 +204,7 @@
 							<!--Path to a Component that satisfies the Socket 'frame' of type Frame.-->
 							<socket_frame>..</socket_frame>
 							<!--Scale factors in X, Y, Z directions respectively.-->
-							<scale_factors>1.09544 1.09544 1.09544</scale_factors>
+							<scale_factors>1 1 1</scale_factors>
 							<!--Default appearance attributes for this Geometry-->
 							<Appearance>
 								<!--The opacity used to display the geometry between 0:transparent, 1:opaque.-->
@@ -2300,9 +2300,38 @@
 			<groups />
 		</MarkerSet>
 		<!--Geometry to be used in contact forces.-->
-		<ContactGeometrySet name="contactgeometryset">
-			<objects />
-			<groups />
+		<ContactGeometrySet>
+			<objects>
+			<ContactMesh name="medial_plateau">
+				<body_name> tibia_r_offset </body_name>
+				<location>        0.00000000       -0.0374       -0.018  </location>
+				<orientation>       -0.035       -0.087       0.035 </orientation>
+				<display_preference>4</display_preference>
+				<filename> .\Geometry\tibial_plane.obj </filename>
+			</ContactMesh>
+			<ContactMesh name="OK_femur_cartilage_med">
+				<body_name> femur_r </body_name>
+				<location>        0.00000000       0.00000000       0.00000000  </location>
+				<orientation>       0.00000000       0.00000000       0.00000000 </orientation>
+				<display_preference>4</display_preference>
+				<filename>C:\Users\noah-\Desktop\Knee_Model_V2\Geometry\OK_femur_cartilage_med.obj</filename>
+			</ContactMesh>
+			<ContactMesh name="lateral_plateau">
+				<body_name> tibia_r </body_name>
+				<location>        0.00000000       -0.0352       0.023  </location>
+				<orientation>       0.035      -0.087       0.122 </orientation>
+				<display_preference>4</display_preference>
+				<filename> .\Geometry\tibial_plane.obj </filename>
+			</ContactMesh>
+			<ContactMesh name="OK_femur_cartilage_lat">
+				<body_name> femur_r </body_name>
+				<location>        0.00000000       0.00000000       0.00000000  </location>
+				<orientation>       0.00000000       0.00000000       0.00000000 </orientation>
+				<display_preference>4</display_preference>
+				<filename>C:\Users\noah-\Desktop\Knee_Model_V2\Geometry\OK_femur_cartilage_lat.obj</filename>
+			</ContactMesh>
+			</objects>
+		<groups/>
 		</ContactGeometrySet>
 		<!--Probes in the model.-->
 		<ProbeSet name="probeset">

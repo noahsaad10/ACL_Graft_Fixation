@@ -29,6 +29,7 @@ coordinate = coordinateSet.get(coordinate_name);
 % Initialize the OpenSim state
 state = model.initSystem();
 
+
 % Get the ACL strain output
 strainOutput = ligament_desired.getOutput('strain');
 forceOutput = ligament_desired.getOutput('total_force');
@@ -45,7 +46,7 @@ for i = 1:length(angle)
     coordinate.setValue(current_state, angle(i));
     
     % Realize velocity to update the state
-    model.realizeVelocity(current_state);
+    model.realizeVelocity(current_state)
     
     % Get the ACL strain at the current knee angle
     strainValues(i) = str2double(strainOutput.getValueAsString(current_state));

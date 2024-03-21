@@ -1,0 +1,128 @@
+Constructing tool from setup file ./Passive_Flexion/FD_Setup.xml.
+
+AbstractTool Runner18 loading model '../runner18_scaled_passiveFlex.osim'
+Loaded model Runner18 from file ../runner18_scaled_passiveFlex.osim
+-----------------------------------------------------------------------
+Running tool Runner18.
+No external loads will be applied (external loads file not specified).
+MODEL: Runner18
+
+ANALYSES (2)
+analysis[0] = ForceReporter
+analysis[1] = PointKinematics
+
+BODIES (5)
+body[0] = ground (mass: 0) (inertia: 0 0 0 0 0 0 0 0 0)
+body[1] = pelvis (mass: 12.1489) (inertia: 0.134454 0 0 0 0.113919 0 0 0 0.0757283)
+body[2] = femur_r (mass: 9.59514) (inertia: 0.177627 0 0 0 0.0465625 0 0 0 0.187311)
+body[3] = patella_r (mass: 0.4875) (inertia: 1.6e-005 0 0 0 7.4e-005 0 0 0 7.4e-005)
+body[4] = tibia_r (mass: 3.82458) (inertia: 0.0349592 0 0 0 0.00353754 0 0 0 0.0354447)
+
+ACTUATORS (21)
+actuator[0] = vas_med_r
+actuator[1] = vas_int_r
+actuator[2] = vas_lat_r
+actuator[3] = aACL_muscle
+actuator[4] = pACL_muscle
+actuator[5] = aPCL_muscle
+actuator[6] = pPCL_muscle
+actuator[7] = LCL_muscle
+actuator[8] = PFL_muscle
+actuator[9] = CAPa_muscle
+actuator[10] = CAPl_muscle
+actuator[11] = CAPo_muscle
+actuator[12] = CAPm_muscle
+actuator[13] = aMCL_muscle
+actuator[14] = iMCL_muscle
+actuator[15] = pMCL_muscle
+actuator[16] = aCM_muscle
+actuator[17] = pCM_muscle
+actuator[18] = cPT_muscle
+actuator[19] = mPT_muscle
+actuator[20] = lPT_muscle
+numStates = 75
+numCoordinates = 16
+numSpeeds = 16
+numActuators = 21
+numBodies = 5
+numConstraints = 0
+numProbes = 0
+
+STATES (74)
+y[0] = pelvis_tilt
+y[1] = pelvis_list
+y[2] = pelvis_rotation
+y[3] = pelvis_tx
+y[4] = pelvis_ty
+y[5] = pelvis_tz
+y[6] = hip_flexion_r
+y[7] = hip_adduction_r
+y[8] = hip_rotation_r
+y[9] = pf_ty_r
+y[10] = knee_angle_r
+y[11] = knee_add_r
+y[12] = knee_rot_r
+y[13] = knee_tx_r
+y[14] = knee_ty_r
+y[15] = knee_tz_r
+y[16] = pelvis_tilt_u
+y[17] = pelvis_list_u
+y[18] = pelvis_rotation_u
+y[19] = pelvis_tx_u
+y[20] = pelvis_ty_u
+y[21] = pelvis_tz_u
+y[22] = hip_flexion_r_u
+y[23] = hip_adduction_r_u
+y[24] = hip_rotation_r_u
+y[25] = pf_ty_r_u
+y[26] = knee_angle_r_u
+y[27] = knee_add_r_u
+y[28] = knee_rot_r_u
+y[29] = knee_tx_r_u
+y[30] = knee_ty_r_u
+y[31] = knee_tz_r_u
+y[32] = vas_med_r.activation
+y[33] = vas_med_r.fiber_length
+y[34] = vas_int_r.activation
+y[35] = vas_int_r.fiber_length
+y[36] = vas_lat_r.activation
+y[37] = vas_lat_r.fiber_length
+y[38] = aACL_muscle.activation
+y[39] = aACL_muscle.fiber_length
+y[40] = pACL_muscle.activation
+y[41] = pACL_muscle.fiber_length
+y[42] = aPCL_muscle.activation
+y[43] = aPCL_muscle.fiber_length
+y[44] = pPCL_muscle.activation
+y[45] = pPCL_muscle.fiber_length
+y[46] = LCL_muscle.activation
+y[47] = LCL_muscle.fiber_length
+y[48] = PFL_muscle.activation
+y[49] = PFL_muscle.fiber_length
+y[50] = CAPa_muscle.activation
+y[51] = CAPa_muscle.fiber_length
+y[52] = CAPl_muscle.activation
+y[53] = CAPl_muscle.fiber_length
+y[54] = CAPo_muscle.activation
+y[55] = CAPo_muscle.fiber_length
+y[56] = CAPm_muscle.activation
+y[57] = CAPm_muscle.fiber_length
+y[58] = aMCL_muscle.activation
+y[59] = aMCL_muscle.fiber_length
+y[60] = iMCL_muscle.activation
+y[61] = iMCL_muscle.fiber_length
+y[62] = pMCL_muscle.activation
+y[63] = pMCL_muscle.fiber_length
+y[64] = aCM_muscle.activation
+y[65] = aCM_muscle.fiber_length
+y[66] = pCM_muscle.activation
+y[67] = pCM_muscle.fiber_length
+y[68] = cPT_muscle.activation
+y[69] = cPT_muscle.fiber_length
+y[70] = mPT_muscle.activation
+y[71] = mPT_muscle.fiber_length
+y[72] = lPT_muscle.activation
+y[73] = lPT_muscle.fiber_length
+
+
+Integrating from 0 to 40
